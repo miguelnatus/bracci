@@ -1,0 +1,655 @@
+Searching 1549 files for "fonts" (regex, case sensitive, whole word)
+
+0 matches across 0 files
+
+
+Searching 1549 files for "font" (regex, case sensitive, whole word)
+
+/Users/Aquaman/sites/bracci-middleman-master/package-lock.json:
+ 2755          "postcss-merge-longhand": "^4.0.11",
+ 2756          "postcss-merge-rules": "^4.0.3",
+ 2757:         "postcss-minify-font-values": "^4.0.2",
+ 2758          "postcss-minify-gradients": "^4.0.2",
+ 2759          "postcss-minify-params": "^4.0.2",
+ ....
+ 7477        }
+ 7478      },
+ 7479:     "postcss-minify-font-values": {
+ 7480        "version": "4.0.2",
+ 7481:       "resolved": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-4.0.2.tgz",
+ 7482        "integrity": "sha512-j85oO6OnRU9zPf04+PZv1LYIYOprWm6IA6zkXkrJXyRveDEuQggG6tvoy8ir8ZwjLxLuGfNkCZEQG7zan+Hbtg==",
+ 7483        "dev": true,
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/application.scss:
+  117  @media screen and (max-width: 600px) {
+  118    .linhas .subtitle {
+  119:     font-size: 1rem;
+  120    }
+  121  }
+  ...
+  237  
+  238  .hero .title {
+  239:   font-family: "goodtimesrg";
+  240    text-transform: uppercase;
+  241  }
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/cart.scss:
+   19  
+   20  .cart-message-text {
+   21:   font-size: 1.8rem;
+   22  }
+   23  
+   ..
+  150    background: #e94b35;
+  151    color: #ffffff;
+  152:   font-size: 15px;
+  153:   font-weight: bold;
+  154    border-radius: 50%;
+  155    text-indent: 0;
+  ...
+  272    text-transform: uppercase;
+  273    display: inline-block;
+  274:   font-size: 1.4rem;
+  275:   font-weight: 700;
+  276    letter-spacing: .1em;
+  277  }
+  278  .cd-cart .undo {
+  279    float: right;
+  280:   font-size: 1.2rem;
+  281    opacity: 0;
+  282    visibility: hidden;
+  ...
+  304    color: rgba(255, 255, 255, 0);
+  305    text-align: center;
+  306:   font-size: 18px;
+  307:   font-weight: 600;
+  308    -webkit-transition: all .2s 0s;
+  309    transition: all .2s 0s;
+  ...
+  319    color: rgba(255, 255, 255, 0);
+  320    text-align: center;
+  321:   font-size: 1.8rem;
+  322:   font-weight: 600;
+  323    -webkit-transition: all .2s 0s;
+  324    transition: all .2s 0s;
+  ...
+  450  }
+  451  .cd-cart h3 {
+  452:   font-weight: bold;
+  453:   font-size: 1.8rem;
+  454  }
+  455  
+  ...
+  475  
+  476  .cd-cart .actions {
+  477:   font-size: 1.4rem;
+  478    height: 1.6em;
+  479    line-height: 1.6em;
+  ...
+  530    border: none;
+  531    border-radius: 0;
+  532:   font-size: 1.4rem;
+  533    margin: 0;
+  534    color: #808b97;
+  ...
+  622    }
+  623    .cd-cart .checkout, .cd-cart .send {
+  624:     font-size: 24px;
+  625    }
+  626  
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/cta.scss:
+    5    width: 100%;
+    6    border: none;
+    7:   font-size: 16px;
+    8    line-height: 16px;
+    9:   font-weight: 600;
+   10    text-transform: uppercase;
+   11    padding: 20px;
+   ..
+   21  
+   22  .cta--small {
+   23:   font-size: 13px;
+   24    line-height: 13px;
+   25:   font-weight: 500;
+   26  }
+   27  
+   28  .cta--fixed-bottom {
+   29:   font-size: 15px;
+   30    line-height: 15px;
+   31    position: fixed;
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/destaque.scss:
+   43  
+   44        h3 {
+   45:         font-size: 40px;
+   46:         font-weight: 700;
+   47          color: #000;
+   48          margin-bottom: 30px;
+   ..
+   69      text-align: center;
+   70      color: #efefef;
+   71:     font-size: 30px;
+   72    }
+   73  
+   ..
+   86  
+   87        h4 {
+   88:         font-size: 30px;
+   89          color: #000;
+   90          margin-bottom: 20px;
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/features.scss:
+   30      color: #1d1d1b;
+   31      text-align: center;
+   32:     font-size: 18px;
+   33:     font-weight: 500;
+   34      line-height: 18px;
+   35      letter-spacing: -0.13px;
+   ..
+   38  
+   39    &__description {
+   40:     font-size: 16px;
+   41      letter-spacing: -0.06px;
+   42      color: #9d9d9d;
+   ..
+   58      .feature__title {
+   59        text-align: left;
+   60:       font-size: 13px;
+   61        line-height: 13px;
+   62        letter-spacing: -0.09px;
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/footer.scss:
+   29  
+   30  .footer__whatsapp__number {
+   31:   font-size: 28px;
+   32    line-height: 28px;
+   33:   font-weight: 600;
+   34    margin-left: 14px;
+   35  }
+   ..
+   37  .footer__address {
+   38    max-width: 308px;
+   39:   font-size: 18px;
+   40    line-height: 26px;
+   41    text-align: center;
+   ..
+   43  
+   44  .footer__phone {
+   45:   font-size: 22px;
+   46:   font-weight: 600;
+   47  }
+   48  
+   ..
+   60  
+   61  .footer__copyright {
+   62:   font-size: 13px;
+   63    line-height: 13px;
+   64    text-align: center;
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/homepage.scss:
+   72  .hero-title {
+   73    text-transform: uppercase;
+   74:   font-size: 26px;
+   75    line-height: 26px;
+   76:   font-weight: 600;
+   77    color: #000000;
+   78    letter-spacing: 1.2px;
+   79  
+   80    @media (min-width: 425px) {
+   81:     font-size: 30px;
+   82      line-height: 30px;
+   83    }
+   84  
+   85    @media (min-width: $tablet) {
+   86:     font-size: 54px;
+   87      line-height: 54px;
+   88      color: #ffffff;
+   ..
+   94  .hero-subtitle {
+   95    text-transform: uppercase;
+   96:   font-size: 18px;
+   97    line-height: 18px;
+   98    padding-bottom: 20px;
+   ..
+  102  
+  103    @media (min-width: $tablet) {
+  104:     font-size: 24px;
+  105      line-height: 24px;
+  106      color: #ffffff;
+  ...
+  125    background-color: #1d1d1b;
+  126    color: #9d9d9d;
+  127:   font-size: 14px;
+  128    line-height: 18px;
+  129    padding-top: 33px;
+  ...
+  131  
+  132    @media (min-width: $desktop) {
+  133:     font-size: 18px;
+  134      line-height: 22px;
+  135      padding-top: 36px;
+  ...
+  182  
+  183  .home-institutional__title {
+  184:   font-size: 30px;
+  185    color: #ffffff;
+  186    line-height: 30px;
+  ...
+  189  
+  190    @media (min-width: $desktop) {
+  191:     font-size: 40px;
+  192      line-height: 40px;
+  193      margin-bottom: 38px;
+  ...
+  203    display: inline-block;
+  204    text-transform: uppercase;
+  205:   font-weight: 600;
+  206    transition: 0.55s;
+  207:   font-size: 13px;
+  208  
+  209    @media (min-width: 375px) {
+  210:     font-size: 16px;
+  211    }
+  212  
+  ...
+  292  
+  293  .ambients__infos__title {
+  294:   font-size: 36px;
+  295    line-height: 36px;
+  296    text-align: center;
+  297    color: #454343;
+  298    text-transform: uppercase;
+  299:   font-weight: 500;
+  300    letter-spacing: 1.2px;
+  301  
+  ...
+  306  
+  307    @media (min-width: $desktop) {
+  308:     font-size: 42px;
+  309      line-height: 42px;
+  310    }
+  ...
+  313  .ambients__infos__subtitle {
+  314    color: #c68260;
+  315:   font-size: 14px;
+  316    line-height: 14px;
+  317    text-align: center;
+  ...
+  323  
+  324    @media (min-width: $desktop) {
+  325:     font-size: 18px;
+  326      line-height: 18px;
+  327      margin-bottom: 24px;
+  ...
+  331  .ambients__infos__text {
+  332    color: #9d9d9d;
+  333:   font-size: 14px;
+  334    line-height: 18px;
+  335    text-align: center;
+  ...
+  341  
+  342    @media (min-width: $desktop) {
+  343:     font-size: 18px;
+  344      line-height: 23px;
+  345      margin-bottom: 60px;
+  ...
+  424  .grid-item__new {
+  425    color: white;
+  426:   font-weight: bold;
+  427    width: 120px;
+  428    background-color: #e22626;
+  ...
+  443  
+  444  .grid-item__title {
+  445:   font-weight: 500;
+  446    color: #454343;
+  447    text-transform: uppercase;
+  448:   font-size: 12px;
+  449    text-align: center;
+  450    line-height: 12px;
+  451  
+  452    @media (min-width: $desktop) {
+  453:     font-size: 16px;
+  454      line-height: 16px;
+  455    }
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/list.scss:
+   11  .page-infos__title {
+   12    text-transform: uppercase;
+   13:   font-size: 36px;
+   14:   font-weight: 500;
+   15    color: #000000;
+   16    line-height: 36px;
+   ..
+   18  
+   19    @media (min-width: $desktop) {
+   20:     font-size: 49px;
+   21      letter-spacing: 4px;
+   22      line-height: 49px;
+   23:     font-weight: 600;
+   24    }
+   25  }
+   ..
+   27  .page-infos__description {
+   28    margin-top: 23px;
+   29:   font-size: 14px;
+   30    line-height: 18px;
+   31    color: #9d9d9d;
+   ..
+   33    @media (min-width: $desktop) {
+   34      margin-top: 28px;
+   35:     font-size: 18px;
+   36      line-height: 23px;
+   37    }
+   ..
+   68  
+   69  .product-list__title {
+   70:   font-size: 22px;
+   71    color: #313131;
+   72:   font-weight: 700;
+   73    line-height: 22px;
+   74    padding-bottom: 9px;
+   ..
+   77  
+   78    @media (min-width: $desktop) {
+   79:     font-size: 30px;
+   80      line-height: 30px;
+   81:     font-weight: 500;
+   82    }
+   83  
+   ..
+  193  
+  194  .product-list__product__titles__name {
+  195:   font-size: 14px;
+  196    line-height: 14px;
+  197    color: #8b8b8b;
+  ...
+  204  
+  205  .product-list__product__titles__complement {
+  206:   font-size: 26px;
+  207    line-height: 26px;
+  208:   font-weight: 500;
+  209    color: #454343;
+  210    text-transform: uppercase;
+  ...
+  219    color: #b2b2b2;
+  220    text-transform: uppercase;
+  221:   font-size: 10px;
+  222    line-height: 10px;
+  223:   font-weight: 500;
+  224    margin-bottom: 4px;
+  225  }
+  ...
+  228    color: #c68260;
+  229    text-transform: uppercase;
+  230:   font-size: 14px;
+  231    line-height: 14px;
+  232  }
+  ...
+  250    width: 100%;
+  251    border: solid 1px #000;
+  252:   font-size: 13px;
+  253    line-height: 13px;
+  254:   font-weight: 500;
+  255    text-transform: uppercase;
+  256    padding: 14px;
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/navbar.scss:
+   58    align-items: center;
+   59    color: #fff;
+   60:   font-size: 12px;
+   61    height: 30px;
+   62    width: 30px;
+   ..
+  105  .whatsapp-button__text {
+  106    text-transform: uppercase;
+  107:   font-weight: 600;
+  108    display: none;
+  109  
+  ...
+  115   @media screen and (max-width: $desktop - 1) {
+  116    .navbar-link {
+  117:     font-weight: 600;
+  118      border-bottom: 1px solid #b1b1b1;
+  119    }
+  ...
+  127    margin-left: 10px;
+  128    color: #e22626;
+  129:   font-weight: bold;
+  130  }
+  131  
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/onde-comprar.scss:
+   12  
+   13  .main-title {
+   14:   font-size: 36px;
+   15    line-height: 36px;
+   16    letter-spacing: 1.44px;
+   ..
+   18    text-transform: uppercase;
+   19    margin-bottom: 26px;
+   20:   font-weight: 500;
+   21  
+   22    @media (min-width: $tablet) {
+   23:     font-size: 49px;
+   24      line-height: 49px;
+   25:     font-weight: 600;
+   26      color: #1d1d1b;
+   27      letter-spacing: 2.21px;
+   ..
+   31  .paragraph {
+   32    color: #9d9d9d;
+   33:   font-size: 14px;
+   34    line-height: 18px;
+   35    letter-spacing: -0.06px;
+   36  
+   37    @media (min-width: $tablet) {
+   38:     font-size: 18px;
+   39      line-height: 23px;
+   40      letter-spacing: -0.07px;
+   ..
+   49      height: 56px;
+   50      color: #000000;
+   51:     font-size: 18px;
+   52      text-transform: uppercase;
+   53:     font-weight: 500;
+   54      background-color: #fbfbfb;
+   55      display: flex;
+   ..
+  124    &__city {
+  125      color: #454343;
+  126:     font-size: 26px;
+  127      line-height: 26px;
+  128:     font-weight: 500;
+  129      text-transform: uppercase;
+  130      margin-bottom: 10px;
+  ...
+  133    &__subtitle {
+  134      color: #8b8b8b;
+  135:     font-size: 14px;
+  136      line-height: 14px;
+  137      letter-spacing: 0.31px;
+  ...
+  144  
+  145    &__title {
+  146:     font-size: 18px;
+  147      letter-spacing: -0.07px;
+  148      color: #000000;
+  149:     font-weight: 700;
+  150      line-height: 20px;
+  151    }
+  152  
+  153    &__content {
+  154:     font-size: 16px;
+  155      line-height: 20px;
+  156      color: #9d9d9d;
+  ...
+  164    flex-wrap: wrap;
+  165    color: #9d9d9d;
+  166:   font-size: 14px;
+  167    line-height: 18px;
+  168    letter-spacing: -0.06px;
+  169  
+  170    @media (min-width: $tablet) {
+  171:     font-size: 18px;
+  172      line-height: 23px;
+  173      letter-spacing: -0.07px;
+  ...
+  200    &__title {
+  201      color: #454343;
+  202:     font-size: 36px;
+  203      line-height: 36px;
+  204      letter-spacing: 1.26px;
+  205:     font-weight: 500;
+  206      margin-bottom: 18px;
+  207      text-transform: uppercase;
+  ...
+  209      @media (min-width: $tablet) {
+  210        color: #1d1d1b;
+  211:       font-size: 42px;
+  212        line-height: 42px;
+  213        letter-spacing: 1.47px;
+  ...
+  221    ol {
+  222      color: #313131;
+  223:     font-size: 18px;
+  224      line-height: 21px;
+  225      letter-spacing: -0.07px;
+  226:     font-weight: 700;
+  227      list-style: none;
+  228      counter-reset: custom-counter;
+  ...
+  240    li::before {
+  241      content: counter(custom-counter) ". ";
+  242:     font-size: 18px;
+  243  
+  244      @media (min-width: $tablet) {
+  245:       font-size: 28px;
+  246      }
+  247    }
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/product-page.scss:
+   40      li {
+   41        color: #9d9d9d;
+   42:       font-size: 14px;
+   43        letter-spacing: -0.06px;
+   44        line-height: 18px;
+   45  
+   46        @media (min-width: $desktop) {
+   47:         font-size: 18px;
+   48          line-height: 23px;
+   49          letter-spacing: -0.07px;
+   ..
+   63    &__title {
+   64      text-align: center;
+   65:     font-size: 36px;
+   66      line-height: 36px;
+   67:     font-weight: 500;
+   68      color: #000000;
+   69      text-transform: uppercase;
+   ..
+   75        text-align: left;
+   76        letter-spacing: 1.56px;
+   77:       font-size: 28px;
+   78        line-height: 28px;
+   79      }
+   80  
+   81      @media (min-width: $desktop) {
+   82:       font-size: 39px;
+   83        line-height: 39px;
+   84      }
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/product-slider.scss:
+   60      .flex-direction-nav a::before {
+   61        content: "<";
+   62:       font-family: "Agenda";
+   63        color: #8e8e8e;
+   64:       font-size: 23px;
+   65:       font-weight: 300;
+   66      }
+   67  
+   68      .flex-direction-nav a.flex-next::before {
+   69        content: ">";
+   70:       font-family: "Agenda";
+   71        color: #8e8e8e;
+   72:       font-size: 23px;
+   73:       font-weight: 300;
+   74      }
+   75  
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/section-title.scss:
+    1  .section-title {
+    2:   font-size: 35px;
+    3    color: #000000;
+    4    position: relative;
+    5    padding-bottom: 9px;
+    6:   font-weight: 700;
+    7    margin-bottom: 38px !important;
+    8  
+    9    @media (min-width: $desktop) {
+   10:     font-size: 42px;
+   11      text-align: center;
+   12      margin-bottom: 56px !important;
+   ..
+   34  
+   35    &--small {
+   36:     font-size: 22px;
+   37      line-height: 22px;
+   38      margin-bottom: 22px !important;
+   39  
+   40      @media (min-width: $desktop) {
+   41:       font-size: 30px;
+   42        line-height: 30px;
+   43:       font-weight: 500;
+   44        text-align: left;
+   45        margin-bottom: 32px !important;
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/title-header.scss:
+   12      text-transform: uppercase;
+   13      color: #efefef;
+   14:     font-size: 30px;
+   15      letter-spacing: 4px;
+   16      margin-top: 15px;
+   17      margin-bottom: 15px;
+   18:     font-weight: 700;
+   19      line-height: 30px;
+   20  
+   21      @media (min-width: $tablet) {
+   22:       font-size: 70px;
+   23        line-height: 70px;
+   24      }
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/topic.scss:
+    4    text-align: center;
+    5    color: #efefef;
+    6:   font-size: 30px;
+    7  }
+    8  
+
+/Users/Aquaman/sites/bracci-middleman-master/source/pages/produto.html.erb:
+  122              R$ produto.price
+  123            </h6>
+  124:           <span style="font-size: 12px">* data.pagina_produtos.check_price</span>
+  125          </div> %>
+  126        </section>
+
+132 matches across 17 files
+
+
+Searching 1549 files for "Agenda" (regex, case sensitive, whole word)
+
+/Users/Aquaman/sites/bracci-middleman-master/source/assets/stylesheets/product-slider.scss:
+   60      .flex-direction-nav a::before {
+   61        content: "<";
+   62:       font-family: "Agenda";
+   63        color: #8e8e8e;
+   64        font-size: 23px;
+   ..
+   68      .flex-direction-nav a.flex-next::before {
+   69        content: ">";
+   70:       font-family: "Agenda";
+   71        color: #8e8e8e;
+   72        font-size: 23px;
+
+2 matches in 1 file

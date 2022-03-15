@@ -1,0 +1,263 @@
+﻿[
+   {
+		"title": "Cromado",
+		"en_title": "Chrome",
+		"it_title": "Cromato",
+		"description": "Atenção: todos os produtos desta página possuem a mesma\ntonalidade. As fotos podem variar de acordo com a luz e ambiente que foram\ntiradas",
+		"en_description": "Attention: all products on this page have the same color.\nPhotos may vary depending on the light and environment that were taken",
+		"it_description": "Attenzione: tutti i prodotti in questa pagina hanno lo stesso\ncolore. Le foto possono variare a seconda della luce e dell'ambiente che sono\nstate scattate",
+		"image": "/assets/images/acabamentos/acabamento-cromado.png",
+		"linhas": [
+			{
+				"title": "Vercci",
+				"en_title": "Vercci",
+				"it_title": "Vercci",
+				"produtos": [
+					{
+						"produto": "B01035C"
+					},
+					{
+						"produto": "B01035C2"
+					},
+					{
+						"produto": "B09001C"
+					},
+					{
+						"produto": "B09002C"
+					}
+				]
+			},
+			{
+				"title": "Vercci Chrome",
+				"en_title": "Vercci Chrome",
+				"it_title": "Vercci Chrome",
+				"produtos": [
+					{
+						"produto": "B01029C"
+					},
+					{
+						"produto": "B01030C"
+					},
+					{
+						"produto": "B01031C"
+					},
+					{
+						"produto": "B01028C"
+					},
+					{
+						"produto": "B01027C"
+					},
+					{
+						"produto": "B01026C"
+					},
+					{
+						"produto": "B01025C"
+					}
+				]
+			},
+			{
+				"title": "Modena",
+				"en_title": "Modena",
+				"it_title": "Modena",
+				"produtos": [
+					{
+						"produto": "B01003C"
+					},
+					{
+						"produto": "B01004C"
+					},
+					{
+						"produto": "B01016C"
+					}
+				]
+			},
+			{
+				"title": "Cirrus",
+				"en_title": "Cirrus",
+				"it_title": "Cirrus",
+				"produtos": [
+					{
+						"produto": "B01015C"
+					}
+				]
+			},
+			{
+				"title": "Parisi",
+				"en_title": "Parisi",
+				"it_title": "Parisi",
+				"produtos": [
+					{
+						"produto": "B01007C"
+					},
+					{
+						"produto": "B01008C"
+					},
+					{
+						"produto": "B01009C"
+					}
+				]
+			},
+			{
+				"title": "St. Louise",
+				"en_title": "St. Louise",
+				"it_title": "St. Louise",
+				"produtos": [
+					{
+						"produto": "B01036C"
+					},
+					{
+						"produto": "B01012C"
+					}
+				]
+			},
+			{
+				"title": "St. Claire",
+				"en_title": "St. Claire",
+				"it_title": "St. Claire",
+				"produtos": [
+					{
+						"produto": "B02005C"
+					},
+					{
+						"produto": "B02004C"
+					}
+				]
+			},
+			{
+				"title": "St Claire Chrome",
+				"en_title": "St Claire Chrome",
+				"it_title": "St Claire Chrome",
+				"produtos": [
+					{
+						"produto": "B07011C"
+					},
+					{
+						"produto": "B07012C"
+					},
+					{
+						"produto": "B07013C"
+					},
+					{
+						"produto": "B07014C"
+					},
+					{
+						"produto": "B07015C"
+					},
+					{
+						"produto": "B07016C"
+					}
+				]
+			},
+			{
+				"title": "Chuveiros",
+				"en_title": "Chuveiros",
+				"it_title": "Chuveiros",
+				"produtos": [
+					{
+						"produto": "B01033C"
+					},
+					{
+						"produto": "B02016C"
+					},
+					{
+						"produto": "B07002C"
+					},
+					{
+						"produto": "B07003C"
+					},
+					{
+						"produto": "B07004C"
+					},
+					{
+						"produto": "B07005C "
+					},
+					{
+						"produto": "B09004C"
+					}
+				]
+			},
+			{
+				"title": "Chuveiros Termostáticos",
+				"en_title": "Thermostatic Showers",
+				"it_title": "Thermostatic Showers",
+				"produtos": [
+					{
+						"produto": "B02017C"
+					}
+				]
+			},
+			{
+				"title": "Complementos",
+				"en_title": "Complementos",
+				"it_title": "Complementos",
+				"produtos": [
+					{
+						"produto": "B07001C"
+					},
+					{
+						"produto": "B09003C"
+					},
+					{
+						"produto": "B07018C"
+					},
+					{
+						"produto": "B07010C"
+					},
+					{
+						"produto": "B07006C"
+					},
+					{
+						"produto": "B07019C"
+					},
+					{
+						"produto": "B09005C"
+					},
+					{
+						"produto": "B09006C"
+					}
+				]
+			},
+			{
+				"title": "Monocomando de Piso",
+				"en_title": "Monocomando de Piso",
+				"it_title": "Monocomando de Piso",
+				"produtos": [
+					{
+						"produto": "B01032C"
+					},
+					{
+						"produto": "B07009C"
+					}
+				]
+			},
+			{
+				"title": "St. Claire Chrome",
+				"en_title": "St. Claire Chrome",
+				"it_title": "St. Claire Chrome",
+				"produtos": [
+					{
+						"produto": "B03009WC"
+					},
+					{
+						"produto": "B03010WC"
+					},
+					{
+						"produto": "B03011WC"
+					},
+					{
+						"produto": "B03012WC"
+					},
+					{
+						"produto": "B03013WC"
+					},
+					{
+						"produto": "B03014WC"
+					},
+					{
+						"produto": "B03015WC"
+					}
+				]
+			}
+		]
+	}
+]

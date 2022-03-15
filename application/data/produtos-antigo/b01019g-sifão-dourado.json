@@ -1,0 +1,65 @@
+{
+  "title": "Sifão Dourado",
+  "complement": "",
+  "en_title": "Golden Siphon",
+  "it_title": "Golden Siphon",
+  "reference": "B07019G",
+  "price": 51870,
+  "images": [
+    {
+      "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1597261718/Produtos/Complementos/b07019g.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b07019g-2-.jpg"
+    }
+  ],
+  "description": "* Sifão **DOURADO**\n* Altura e comprimento ajustáveis",
+  "en_description": "* Finish: **GOLD**\n* Adjustable height and length\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **GOLD**\n* Adjustable height and length\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/eff5ea69-38d3-442f-8dce-0f1d7741c458/Sifão-Dourado-B07019G-BRACCI",
+  "relacionados": [
+    {
+      "produto": "B07010G"
+    },
+    {
+      "produto": "B02001G"
+    },
+    {
+      "produto": "B02003G - Dourado"
+    },
+    {
+      "produto": "B02004G"
+    },
+    {
+      "produto": "B02005G - Dourado"
+    }
+  ],
+  "variations": [
+    {
+      "produto": "B07019B"
+    },
+    {
+      "produto": "B07019BW"
+    },
+    {
+      "produto": "B07019C"
+    },
+    {
+      "produto": "B07019RG"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

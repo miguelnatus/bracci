@@ -1,0 +1,18 @@
+{
+   "title": "Cirrus",
+   "en_title": "Cirrus",
+   "it_title": "Cirrus",
+   "image": "/assets/images/uploads/cirrus.jpg",
+   "column_3": true,
+   "produtos": [
+      {
+         "produto": "B02006B2"
+      },
+      {
+         "produto": "B02006B"
+      },
+      {
+         "produto": "B01015C"
+      }
+   ]
+}

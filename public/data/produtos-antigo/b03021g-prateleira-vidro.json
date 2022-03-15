@@ -1,0 +1,66 @@
+{
+   "title": "Prateleira vidro",
+   "en_title": "Glass Shelf",
+   "it_title": "Glass Shelf",
+   "reference": "B07016G",
+   "price": 64870,
+   "images": [
+      {
+         "image": "/assets/images/uploads/b07016g.png"
+      },
+      {
+         "image": "/assets/images/uploads/b07016kk.jpg"
+      }
+   ],
+   "description": "* Prateleira Vidro St. Claire **DOURADO**\n* Comprimento: 50 cm\n* Profundidade: 9,1 cm",
+   "en_description": "* Finish: **GOLD**\n* Lenght: 50 cm\n* Width: 9,1 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "* Finish: **GOLD**\n* Lenght: 50 cm\n* Width: 9,1 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "relacionados": [
+      {
+         "produto": "B02001G"
+      },
+      {
+         "produto": "B02003G"
+      },
+      {
+         "produto": "B02004G"
+      },
+      {
+         "produto": "B02005G"
+      },
+      {
+         "produto": "B07002G"
+      },
+      {
+         "produto": "B07003G"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07016B"
+      },
+      {
+         "produto": "B07016BW"
+      },
+      {
+         "produto": "B07016C"
+      },
+      {
+         "produto": "B07016RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

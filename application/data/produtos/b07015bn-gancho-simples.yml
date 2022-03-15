@@ -1,0 +1,41 @@
+title: Gancho Simples
+en_title: Single Hook
+it_title: Single Hook
+reference: B07015BN
+price: "000"
+images:
+  - image: https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1611235907/Produtos/A%C3%A7o%20Escovado/st_claire_6.png
+  - image: https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1611237130/Produtos/A%C3%A7o%20Escovado/img-0c2409b22b64e2b5.png
+description: |-
+  
+
+  * Gancho Simples St. Claire **AÇO ESCOVADO**
+  * Comprimento: 6 cm
+  * Profundidade: 7,4 cm
+en_description: |-
+  
+
+  * Gancho Simples St. Claire **AÇO ESCOVADO**
+  * Comprimento: 6 cm
+  * Profundidade: 7,4 cm
+it_description: |-
+  
+
+  * Gancho Simples St. Claire **AÇO ESCOVADO**
+  * Comprimento: 6 cm
+  * Profundidade: 7,4 cm
+relacionados:
+  - produto: B02001BN
+  - produto: B07002BN
+  - produto: B07003BN
+variations:
+  - produto: B07015B
+  - produto: B07015C
+  - produto: B07015G
+  - produto: B07015G
+  - produto: B07015BW
+features:
+  - feature: material-bronze
+  - feature: revestimento-pvd
+  - feature: garantia-5
+  - feature: acessorios

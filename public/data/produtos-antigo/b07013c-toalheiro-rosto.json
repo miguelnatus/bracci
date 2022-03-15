@@ -1,0 +1,61 @@
+{
+   "title": "Toalheiro Rosto",
+   "en_title": "Towel Ring",
+   "it_title": "Towel Ring",
+   "reference": "B07013C",
+   "price": 47970,
+   "images": [
+      {
+         "image": "/assets/images/uploads/b07013c.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/b07013c2.jpg"
+      }
+   ],
+   "description": "* Toalheiro Rosto St. Claire **CROMADO**\n* Comprimento: 32 cm\n* Largura: 7,5 cm",
+   "en_description": "* Finish: **CHROME**\n* Length: 32 cm\n* Width: 7,5 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "* Finish: **CHROME**\n* Length: 32 cm\n* Width: 7,5 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "model_3d": "https://3dwarehouse.sketchup.com/model/4963b81f-b742-4a67-a198-33e10288f1b3/Toalheiro-Barra-Rosto-Cromado-BRACCI-B06003C",
+   "relacionados": [
+      {
+         "produto": "B02004C"
+      },
+      {
+         "produto": "B02005C"
+      },
+      {
+         "produto": "B07002C"
+      },
+      {
+         "produto": "B07006C"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07013B"
+      },
+      {
+         "produto": "B07013BW"
+      },
+      {
+         "produto": "B07013G"
+      },
+      {
+         "produto": "B07013RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

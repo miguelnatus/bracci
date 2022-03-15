@@ -1,0 +1,43 @@
+{
+  "title": "Toalheiro Rosto",
+  "complement": "",
+  "en_title": "Towel Ring",
+  "it_title": "Towel Ring",
+  "reference": "B01022BN",
+  "price": 32370,
+  "images": [
+    {
+      "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1597167896/Produtos/Acess%C3%B3rios/00_bn.jpg"
+    },
+    {
+      "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1597167896/Produtos/Acess%C3%B3rios/B01022RG.jpg"
+    }
+  ],
+  "description": "* Toalheiro Rosto Vercci **AÇO ESCOVADO**\n* Comprimento: 35,7 cm\n* Profundidade: 7 cm",
+  "en_description": "* Finish: **BRUSHED NIQUEL**\n* Lenght: 35,7 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **BRUSHED NIQUEL**\n* Lenght: 35,7 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/98ce4cf5-3fb4-4100-9361-d66b8099da78/Toalheiro-Rosto-Aço-Escovado-B01022BN-BRACCI",
+  "relacionados": [],
+  "variations": [
+    {
+      "produto": "B01022G"
+    },
+    {
+      "produto": "B01022RG"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

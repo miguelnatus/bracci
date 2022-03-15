@@ -1,0 +1,41 @@
+{
+  "title": "Toalheiro Duplo",
+  "en_title": "Double Towel Bar",
+  "it_title": "Double Towel Bar",
+  "reference": "B01024RG",
+  "price": 59670,
+  "images": [
+    {
+      "image": "/assets/images/uploads/rg-3-.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/img-33ff12ba92eb36c4.jpeg"
+    }
+  ],
+  "description": "* Toalheiro Duplo Vercci **ROSE GOLD**\n* Comprimento: 55,2 cm\n* Profundidade: 12 cm",
+  "en_description": "* Finish: **ROSE GOLD**\n* Lenght: 55,2 cm\n* Width: 12 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **ROSE GOLD**\n* Lenght: 55,2 cm\n* Width: 12 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/f17c5714-d214-499a-9069-4797804a25d1/Toalheiro-Duplo-Rose-Red-Gold-BRACCI-B01024RG",
+  "variations": [
+    {
+      "produto": "B01024BN"
+    },
+    {
+      "produto": "B01024G"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

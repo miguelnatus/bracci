@@ -1,0 +1,67 @@
+{
+   "title": "Toalheiro Rosto",
+   "en_title": "Towel Ring",
+   "it_title": "Towel Ring",
+   "reference": "B07013G",
+   "price": 58370,
+   "images": [
+      {
+         "image": "/assets/images/uploads/b07013g.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/b06003rg-2-.jpg"
+      }
+   ],
+   "description": "* Toalheiro Duplo St. Claire **DOURADO**\n* Comprimento: 32 cm\n* Profundidade: 7,5 cm",
+   "en_description": "* Finish: **GOLD**\n* Lenght: 32 cm\n* Width: 7,5 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "* Finish:  **GOLD**\n* Lenght: 32 cm\n* Width: 7,5 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "model_3d": "https://3dwarehouse.sketchup.com/model/cd983d65-d728-455e-9743-c834e3d2257e/Toalheiro-Rosto-Dourado-BRACCI-B07013G",
+   "relacionados": [
+      {
+         "produto": "B02001G"
+      },
+      {
+         "produto": "B02003G"
+      },
+      {
+         "produto": "B02004G"
+      },
+      {
+         "produto": "B02005G"
+      },
+      {
+         "produto": "B07002G"
+      },
+      {
+         "produto": "B07003G"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07013B"
+      },
+      {
+         "produto": "B07013BW"
+      },
+      {
+         "produto": "B07013C"
+      },
+      {
+         "produto": "B07013RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

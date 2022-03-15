@@ -1,0 +1,35 @@
+{
+   "title": "St. Louise",
+   "en_title": "St. Louise",
+   "it_title": "St. Louise",
+   "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_fit,f_auto,h_200,q_auto,w_200/v1598295282/Homepage/FILTRO.jpg",
+   "produtos": [
+      {
+         "produto": "B01036C"
+      },
+      {
+         "produto": "B01036RG"
+      },
+      {
+         "produto": "B01010BN"
+      },
+      {
+         "produto": "B01012C"
+      },
+      {
+         "produto": "B01034BN"
+      },
+      {
+         "produto": "B07021RG"
+      },
+      {
+         "produto": "B07021G"
+      },
+      {
+         "produto": "B07021B"
+      },
+      {
+         "produto": "B07021BN"
+      }
+   ]
+}

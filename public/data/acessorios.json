@@ -1,0 +1,289 @@
+{
+  "title": "Acessórios",
+  "en_title": "Accessories",
+  "it_title": "Accessories",
+  "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_fit,f_auto,h_200,q_auto,w_200/v1598295756/Homepage/FILTRO_2.jpg",
+  "linhas": [
+    {
+      "title": "St Claire Rose Gold",
+      "en_title": "St Claire Rose Gold",
+      "it_title": "St Claire Rose Gold",
+      "produtos": [
+        {
+          "produto": "B07011RG"
+        },
+        {
+          "produto": "B07012RG"
+        },
+        {
+          "produto": "B07013RG"
+        },
+        {
+          "produto": "B07014RG"
+        },
+        {
+          "produto": "B07015RG"
+        },
+        {
+          "produto": "B07016RG"
+        }
+      ]
+    },
+    {
+      "title": "St. Claire Gold",
+      "en_title": "St. Claire Gold",
+      "it_title": "St. Claire Gold",
+      "produtos": [
+        {
+          "produto": "B07011G"
+        },
+        {
+          "produto": "B07012G"
+        },
+        {
+          "produto": "B07013G"
+        },
+        {
+          "produto": "B07014G"
+        },
+        {
+          "produto": "B07015G"
+        },
+        {
+          "produto": "B07016G"
+        }
+      ]
+    },
+    {
+      "title": "St Claire Cromado",
+      "en_title": "St Claire Chrome",
+      "it_title": "St Claire Chrome",
+      "produtos": [
+        {
+          "produto": "B07011C"
+        },
+        {
+          "produto": "B07012C"
+        },
+        {
+          "produto": "B07013C"
+        },
+        {
+          "produto": "B07014C"
+        },
+        {
+          "produto": "B07015C"
+        },
+        {
+          "produto": "B07016C"
+        }
+      ]
+    },
+    {
+      "title": "St Claire Envelhecido",
+      "en_title": "St Claire ORB",
+      "it_title": "St Claire ORB",
+      "produtos": [
+        {
+          "produto": "B07011BW"
+        },
+        {
+          "produto": "B07012BW"
+        },
+        {
+          "produto": "B07013BW"
+        },
+        {
+          "produto": "B07014BW"
+        },
+        {
+          "produto": "B07015BW"
+        },
+        {
+          "produto": "B07016BW"
+        }
+      ]
+    },
+    {
+      "title": "St. Claire Preto Fosco",
+      "en_title": "St. Claire Matte Black",
+      "it_title": "St. Claire Matte Black",
+      "produtos": [
+        {
+          "produto": "B07011B"
+        },
+        {
+          "produto": "B07012B"
+        },
+        {
+          "produto": "B07013B"
+        },
+        {
+          "produto": "B07014B"
+        },
+        {
+          "produto": "B07015B"
+        },
+        {
+          "produto": "B07016B"
+        }
+      ]
+    },
+    {
+      "title": "Vercci Chrome",
+      "en_title": "Vercci Chrome",
+      "it_title": "Vercci Chrome",
+      "produtos": [
+        {
+          "produto": "B01029C"
+        },
+        {
+          "produto": "B01030C"
+        },
+        {
+          "produto": "B01031C"
+        },
+        {
+          "produto": "B01028C"
+        },
+        {
+          "produto": "B01027C"
+        },
+        {
+          "produto": "B01026C"
+        },
+        {
+          "produto": "B01025C"
+        }
+      ]
+    },
+    {
+      "title": "Vercci Preto Fosco",
+      "en_title": "Vercci Black Matt",
+      "it_title": "Vercci Black Matt",
+      "produtos": [
+        {
+          "produto": "B01029B "
+        },
+        {
+          "produto": "B01030B"
+        },
+        {
+          "produto": "B01031B "
+        },
+        {
+          "produto": "B01028B "
+        },
+        {
+          "produto": "B01027B "
+        },
+        {
+          "produto": "B01026B"
+        },
+        {
+          "produto": "B01025B"
+        }
+      ]
+    },
+    {
+      "title": "Vercci Rose Gold",
+      "en_title": "Vercci Rose Gold",
+      "it_title": "Vercci Rose Gold",
+      "produtos": [
+        {
+          "produto": "B01023RG"
+        },
+        {
+          "produto": "B01024RG"
+        },
+        {
+          "produto": "B01022RG"
+        },
+        {
+          "produto": "B01021RG"
+        },
+        {
+          "produto": "B01020RG"
+        }
+      ]
+    },
+    {
+      "title": "Vercci Dourado",
+      "en_title": "Vercci Gold",
+      "it_title": "Vercci Gold",
+      "produtos": [
+        {
+          "produto": "B01023G"
+        },
+        {
+          "produto": "B01024G"
+        },
+        {
+          "produto": "B01022G"
+        },
+        {
+          "produto": "B01021G"
+        },
+        {
+          "produto": "B01020G"
+        },
+        {
+          "produto": "B01025G"
+        }
+      ]
+    },
+    {
+      "title": "Vercci Aço Escovado",
+      "en_title": "Vercci Brushed Niquel",
+      "it_title": "Vercci Brushed Niquel",
+      "produtos": [
+        {
+          "produto": "B01023BN"
+        },
+        {
+          "produto": "B01024BN"
+        },
+        {
+          "produto": "B01022BN"
+        },
+        {
+          "produto": "B01021BN"
+        },
+        {
+          "produto": "B01020BN"
+        },
+        {
+          "produto": "B01025BN"
+        }
+      ]
+    },
+    {
+      "title": "St Claire Chrome",
+      "en_title": "St Claire Chrome",
+      "it_title": "St Claire Chrome",
+      "produtos": [
+        {
+          "produto": "B03009WC"
+        },
+        {
+          "produto": "B03010WC"
+        },
+        {
+          "produto": "B03011WC"
+        },
+        {
+          "produto": "B03012WC"
+        },
+        {
+          "produto": "B03013WC"
+        },
+        {
+          "produto": "B03014WC"
+        },
+        {
+          "produto": "B03015WC"
+        }
+      ]
+    }
+  ]
+}

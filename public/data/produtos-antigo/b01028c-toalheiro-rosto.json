@@ -1,0 +1,38 @@
+{
+  "title": "Toalheiro Rosto",
+  "en_title": "Towel Ring",
+  "it_title": "Towel Ring",
+  "reference": "B01028C",
+  "price": 33670,
+  "images": [
+    {
+      "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1587730205/Produtos/Acess%C3%B3rios/B01028C.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/img-da43a9b033393231.jpeg"
+    }
+  ],
+  "description": "* Toalheiro Rosto Vercci **CROMADO**\n* Comprimento: 35 cm",
+  "en_description": "* Finish: **CHROME**\n* Lenght: 35cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **CHROME**\n* Lenght: 35 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/d90b5f36-5b2f-4988-ac1b-0adbbba51aa3/Toalheiro-Rosto-Cromado-BRACCI-B01028C",
+  "variations": [
+    {
+      "produto": "B01028B "
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

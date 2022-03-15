@@ -1,0 +1,64 @@
+{
+   "title": "Chuveiro Cromado",
+   "en_title": "Chrome Shower",
+   "it_title": "Chrome Shower",
+   "reference": "B07002C",
+   "price": "1.168,70",
+   "images": [
+      {
+         "image": "/assets/images/uploads/img-85a4eafc0b579add.jpeg"
+      },
+      {
+         "image": "/assets/images/uploads/415130.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/415129.jpg"
+      }
+   ],
+   "description": "* Acabamento **CROMADO**\n* Comprimento: 43cm\n* Diâmetro: 20 cm (8 polegadas)\n* Pressão máx MCA: 40\n* Instalação com monocomando de parede ou registros separados (quente e frio)\n* Necessário aquecimento central (gás / solar)",
+   "en_description": "* Finish: **CHROME**\n* Length: 43cm\n* Diameter: 20 cm (8 inches)\n* Smooth Single handle operation\n* Recommended for bathrooms\n* Low lead compliant - meeting federal and state regulations for lead content\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "\n\n* Finish: **CHROME**\n* Length: 43cm\n* Diameter: 20 cm (8 inches)\n* Smooth Single handle operation\n* Recommended for bathrooms\n* Low lead compliant - meeting federal and state regulations for lead content\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "model_3d": "https://3dwarehouse.sketchup.com/model/78467f33-4ead-4966-93be-4d28a6257f34/Chuveiro-de-Parede-Cromado-BRACCI-B07002C",
+   "relacionados": [
+      {
+         "produto": "B07006C"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07002B"
+      },
+      {
+         "produto": "B07002BW"
+      },
+      {
+         "produto": "B07002G"
+      },
+      {
+         "produto": "B07002RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "pressao-6-mca"
+      },
+      {
+         "feature": "vazao-minima"
+      },
+      {
+         "feature": "vazao-maxima"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

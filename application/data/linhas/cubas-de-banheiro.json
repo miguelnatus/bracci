@@ -1,0 +1,22 @@
+{
+   "title": "Cubas de Banheiro",
+   "en_title": "Cubas de Banheiro",
+   "it_title": "Cubas de Banheiro",
+   "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_fit,f_auto,h_200,q_auto,w_200/v1599593707/Produtos/Cubas%20de%20Banheiro/B1702MG.jpg",
+   "column_3": false,
+   "new": true,
+   "produtos": [
+      {
+         "produto": "B1701W"
+      },
+      {
+         "produto": "B1702W"
+      },
+      {
+         "produto": "B1702MG"
+      },
+      {
+         "produto": "B1703W"
+      }
+   ]
+}

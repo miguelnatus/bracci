@@ -1,0 +1,49 @@
+{
+  "title": "Toalheiro Simples",
+  "en_title": "Single Towel Bar",
+  "it_title": "Single Towel Bar",
+  "reference": "B01029B",
+  "price": 45370,
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01029b.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01029c.jpg"
+    }
+  ],
+  "description": "* Toalheiro Simples Vercci **PRETO FOSCO**\n* Comprimento: 64,8 cm\n* Largura: 7,4 cm",
+  "en_description": "* Finish: **MATTE BLACK**\n* Lenght: 6,48 cm\n* Width: 7,4 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **MATTE BLACK**\n* Lenght: 6,48 cm\n* Width: 7,4 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/f58294c6-19db-4f50-ae05-23bb1299f0d0/Toalheiro-Simples-Preto-Fosco-BRACCI-B01029B",
+  "relacionados": [
+    {
+      "produto": "B02006B"
+    },
+    {
+      "produto": "B02006B-2 - Preto Fosco"
+    },
+    {
+      "produto": "B02008B"
+    }
+  ],
+  "variations": [
+    {
+      "produto": "B01029C"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

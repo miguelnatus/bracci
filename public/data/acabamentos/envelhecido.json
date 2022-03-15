@@ -1,0 +1,87 @@
+{
+  "title": "Envelhecido",
+  "en_title": "ORB",
+  "it_title": "Anziano",
+  "description": "Atenção: todos os produtos desta página possuem a mesma\ntonalidade. As fotos podem variar de acordo com a luz e ambiente que foram\ntiradas",
+  "en_description": "Attention: all products on this page have the same color.\nPhotos may vary depending on the light and environment that were taken",
+  "it_description": "Attenzione: tutti i prodotti in questa pagina hanno lo stesso\ncolore. Le foto possono variare a seconda della luce e dell'ambiente che sono\nstate scattate",
+  "image": "/assets/images/acabamentos/acabamento-envelhecido.png",
+  "linhas": [
+    {
+      "title": "St. Claire",
+      "en_title": "St. Claire",
+      "it_title": "St. Claire",
+      "produtos": [
+        {
+          "produto": "B02002BW"
+        },
+        {
+          "produto": "B02003BW"
+        },
+        {
+          "produto": "B02003ORB"
+        }
+      ]
+    },
+    {
+      "title": "St Claire Envelhecido",
+      "en_title": "St Claire Envelhecido",
+      "it_title": "St Claire Envelhecido",
+      "produtos": [
+        {
+          "produto": "B07011BW"
+        },
+        {
+          "produto": "B07012BW"
+        },
+        {
+          "produto": "B07013BW"
+        },
+        {
+          "produto": "B07014BW"
+        },
+        {
+          "produto": "B07015BW"
+        },
+        {
+          "produto": "B07016BW"
+        }
+      ]
+    },
+    {
+      "title": "Complementos",
+      "en_title": "Complementos",
+      "it_title": "Complementos",
+      "produtos": [
+        {
+          "produto": "B07001BW"
+        },
+        {
+          "produto": "B07010BW"
+        },
+        {
+          "produto": "B07018BW"
+        },
+        {
+          "produto": "B07006BW"
+        },
+        {
+          "produto": "B07019BW"
+        }
+      ]
+    },
+    {
+      "title": "Chuveiros",
+      "en_title": "Chuveiros",
+      "it_title": "Chuveiros",
+      "produtos": [
+        {
+          "produto": "B07002BW"
+        },
+        {
+          "produto": "B07003BW"
+        }
+      ]
+    }
+  ]
+}

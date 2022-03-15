@@ -1,0 +1,209 @@
+﻿[
+   {
+	"title": "Dourado",
+	"en_title": "Golden",
+	"it_title": "D'oro",
+	"description": "Atenção: todos os produtos desta página possuem a mesma\ntonalidade. As fotos podem variar de acordo com a luz e ambiente que foram\ntiradas",
+	"en_description": "Attention: all products on this page have the same color.\nPhotos may vary depending on the light and environment that were taken",
+	"it_description": "Attenzione: tutti i prodotti in questa pagina hanno lo stesso\ncolore. Le foto possono variare a seconda della luce e dell'ambiente che sono\nstate scattate",
+	"image": "/assets/images/acabamentos/acabamento-dourado.png",
+	"linhas": [
+		{
+			"title": "St. Claire",
+			"en_title": "St. Claire",
+			"it_title": "St. Claire",
+			"produtos": [
+				{
+					"produto": "B02001G"
+				},
+				{
+					"produto": "B02004G"
+				},
+				{
+					"produto": "B02005G "
+				},
+				{
+					"produto": "B02003G "
+				}
+			]
+		},
+		{
+			"title": "St. Claire Gold",
+			"en_title": "St. Claire Gold",
+			"it_title": "St. Claire Gold",
+			"produtos": [
+				{
+					"produto": "B07011G"
+				},
+				{
+					"produto": "B07012G"
+				},
+				{
+					"produto": "B07013G"
+				},
+				{
+					"produto": "B07014G"
+				},
+				{
+					"produto": "B07015G"
+				},
+				{
+					"produto": "B07016G"
+				}
+			]
+		},
+		{
+			"title": "Vercci",
+			"en_title": "Vercci",
+			"it_title": "Vercci",
+			"produtos": [
+				{
+					"produto": "B01035G"
+				},
+				{
+					"produto": "B01035G2"
+				},
+				{
+					"produto": "B09001G"
+				},
+				{
+					"produto": "B09002G"
+				}
+			]
+		},
+		{
+			"title": "Vercci Dourado",
+			"en_title": "Vercci Gold",
+			"it_title": "Vercci Gold",
+			"produtos": [
+				{
+					"produto": "B01023G"
+				},
+				{
+					"produto": "B01024G"
+				},
+				{
+					"produto": "B01022G"
+				},
+				{
+					"produto": "B01021G"
+				},
+				{
+					"produto": "B01020G"
+				},
+				{
+					"produto": "B01025G"
+				}
+			]
+		},
+		{
+			"title": "Parisi",
+			"en_title": "Parisi",
+			"it_title": "Parisi",
+			"produtos": [
+				{
+					"produto": "B01005G"
+				},
+				{
+					"produto": "B01006G"
+				}
+			]
+		},
+		{
+			"title": "Chuveiros",
+			"en_title": "Chuveiros",
+			"it_title": "Chuveiros",
+			"produtos": [
+				{
+					"produto": "B02016G "
+				},
+				{
+					"produto": "B07002G"
+				},
+				{
+					"produto": "B07003G"
+				},
+				{
+					"produto": "B07004G"
+				},
+				{
+					"produto": "B07005G"
+				},
+				{
+					"produto": "B09004G"
+				}
+			]
+		},
+		{
+			"title": "Complementos",
+			"en_title": "Complementos",
+			"it_title": "Complementos",
+			"produtos": [
+				{
+					"produto": "B07001G"
+				},
+				{
+					"produto": "B09003G"
+				},
+				{
+					"produto": "B07026G"
+				},
+				{
+					"produto": "B07010G"
+				},
+				{
+					"produto": "B07018G"
+				},
+				{
+					"produto": "B07006G"
+				},
+				{
+					"produto": "B07019G"
+				},
+				{
+					"produto": "B09005G"
+				},
+				{
+					"produto": "B09006G"
+				}
+			]
+		},
+		{
+			"title": "Misturador de Piso",
+			"en_title": "Misturador de Piso",
+			"it_title": "Misturador de Piso",
+			"produtos": [
+				{
+					"produto": "B07009G"
+				},
+				{
+					"produto": "B09010G"
+				}
+			]
+		},
+		{
+			"title": "St. Louise",
+			"en_title": "St. Louise",
+			"it_title": "St. Louise",
+			"produtos": [
+				{
+					"produto": "B07021G"
+				}
+			]
+		},
+		{
+			"title": "Cubas de Cozinha",
+			"en_title": "Kitchen Bowls",
+			"it_title": "Lavellos Della Cucina",
+			"produtos": [
+				{
+					"produto": "B1501G"
+				},
+				{
+					"produto": "B1504G"
+				}
+			]
+		}
+	]
+}
+]

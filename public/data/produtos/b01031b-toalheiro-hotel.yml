@@ -1,0 +1,43 @@
+title: Toalheiro Hotel
+en_title: Hotel Towel Bar
+it_title: Hotel Towel Bar
+reference: 'B01031B '
+price: '1.038,70'
+images:
+  - image: /assets/images/uploads/b01031b.jpg
+  - image: /assets/images/uploads/b01031c.jpg
+description: |-
+  * Toalheiro Hotel Vercci **PRETO FOSCO**
+  * Comprimento: 64,8 cm
+  * Profundidade: 23,3 cm
+en_description: |-
+  * Finish: **MATTE BLACK**
+  * Lenght: 64,8cm
+  * Width: 23,3 cm
+
+  **Why should you buy BRACCI?**
+
+  * Premier finishing product - 5 years warranty worldwide
+  * Italian Design
+  * Products choice and installation support by our specialist team
+it_description: |-
+  * Finish: **MATTE BLACK**
+  * Lenght: 64,8cm
+  * Width: 23,3 cm
+
+  **Why should you buy BRACCI?**
+
+  * Premier finishing product - 5 years warranty worldwide
+  * Italian Design
+  * Products choice and installation support by our specialist team
+model_3d: >-
+  https://3dwarehouse.sketchup.com/model/9427d226-c860-4089-aaf7-e45aaad8467f/Toalheiro-Hotel-Preto-Fosco-BRACCI-B01031B
+relacionados:
+  - produto: B02006B
+  - produto: B02006B-2 - Preto Fosco
+  - produto: B02008B
+features:
+  - feature: material-bronze
+  - feature: revestimento-pvd
+  - feature: garantia-5
+  - feature: acessorios

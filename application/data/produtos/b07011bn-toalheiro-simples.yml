@@ -1,0 +1,41 @@
+title: Toalheiro Simples
+en_title: Single Towel Bar
+it_title: Single Towel Bar
+reference: B07011BN
+price: "0000"
+images:
+  - image: https://res.cloudinary.com/dqnaebclw/image/upload/v1611235890/Produtos/A%C3%A7o%20Escovado/st_claire_3.png
+  - image: https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1611236006/Produtos/A%C3%A7o%20Escovado/img-7625bb9d6f18714d-150c71b0.jpg
+description: |-
+  
+
+  * Toalheiro Simples St. Claire **AÇO ESCOVADO**
+  * Comprimento: 60cm
+  * Largura: 7,5cm
+en_description: |-
+  
+
+  * Toalheiro Simples St. Claire **AÇO ESCOVADO**
+  * Comprimento: 60cm
+  * Largura: 7,5cm
+it_description: |-
+  
+
+  * Toalheiro Simples St. Claire **AÇO ESCOVADO**
+  * Comprimento: 60cm
+  * Largura: 7,5cm
+relacionados:
+  - produto: B02001BN
+  - produto: B07002BN
+  - produto: B07003BN
+variations:
+  - produto: B07011B
+  - produto: B07011BW
+  - produto: B07011C
+  - produto: B07011G
+  - produto: B07011RG
+features:
+  - feature: material-bronze
+  - feature: revestimento-pvd
+  - feature: garantia-5
+  - feature: acessorios

@@ -1,0 +1,144 @@
+[
+   {
+      "title":"Aço Escovado",
+      "en_title":"Brushed Nickel",
+      "it_title":"Acciaio Spazzolato",
+      "description":"Atenção: todos os produtos desta página possuem a mesma\ntonalidade. As fotos podem variar de acordo com a luz e ambiente que foram\ntiradas",
+      "en_description":"Attention: all products on this page have the same color.\nPhotos may vary depending on the light and environment that were taken",
+      "it_description":"Attenzione: tutti i prodotti in questa pagina hanno lo stesso\ncolore. Le foto possono variare a seconda della luce e dell'ambiente che sono\nstate scattate",
+      "image":"/assets/images/acabamentos/acabamento-acoescovado.png",
+      "linhas":[
+         {
+            "title":"Vercci",
+            "en_title":"Vercci",
+            "it_title":"Vercci",
+            "produtos":[
+               {
+                  "produto":"B01035BN"
+               },
+               {
+                  "produto":"B01035BN2"
+               },
+               {
+                  "produto":"B09001BN"
+               }
+            ]
+         },
+         {
+            "title":"Vercci Aço Escovado",
+            "en_title":"Vercci Brushed Nickel",
+            "it_title":"Vercci Brushed Nickel",
+            "produtos":[
+               {
+                  "produto":"B01023BN"
+               },
+               {
+                  "produto":"B01024BN"
+               },
+               {
+                  "produto":"B01022BN"
+               },
+               {
+                  "produto":"B01021BN"
+               },
+               {
+                  "produto":"B01020BN"
+               },
+               {
+                  "produto":"B01025BN"
+               }
+            ]
+         },
+         {
+            "title":"St Claire",
+            "en_title":"St Claire",
+            "it_title":"St Claire",
+            "produtos":[
+               {
+                  "produto":"B02001BN"
+               }
+            ]
+         },
+         {
+            "title":"Chuveiros",
+            "en_title":" Showers",
+            "it_title":" Showers",
+            "produtos":[
+               {
+                  "produto":"B07004BN"
+               },
+               {
+                  "produto":"B07005BN"
+               }
+            ]
+         },
+         {
+            "title":"Complementos",
+            "en_title":"Complements",
+            "it_title":"Complements",
+            "produtos":[
+               {
+                  "produto":"B07018BN"
+               },
+               {
+                  "produto":"B09003BN"
+               },
+               {
+                  "produto":"B07010BN"
+               },
+               {
+                  "produto":"B07006BN"
+               },
+               {
+                  "produto":"B09005BN"
+               },
+               {
+                  "produto":"B09006BN"
+               }
+            ]
+         },
+         {
+            "title":"St. Louise",
+            "en_title":"St. Louise",
+            "it_title":"St. Louise",
+            "produtos":[
+               {
+                  "produto":"B01010BN"
+               },
+               {
+                  "produto":"B01034BN"
+               },
+               {
+                  "produto":"B07021BN"
+               }
+            ]
+         },
+         {
+            "title":"Smart Sensor",
+            "en_title":"Smart Sensor",
+            "it_title":"Smart Sensor",
+            "produtos":[
+               {
+                  "produto":"B01040BN"
+               }
+            ]
+         },
+         {
+            "title":"Cubas de Cozinha",
+            "en_title":"Kitchen Bowls",
+            "it_title":"Lavellos Della Cucina",
+            "produtos":[
+               {
+                  "produto":"B1501BN"
+               },
+               {
+                  "produto":"B1502BN"
+               },
+               {
+                  "produto":"B1503BN"
+               }
+            ]
+         }
+      ]
+   }
+]

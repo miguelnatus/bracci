@@ -1,0 +1,61 @@
+{
+   "title": "Toalheiro Duplo",
+   "en_title": "Double Towel Bar",
+   "it_title": "Double Towel Bar",
+   "reference": "B07012C",
+   "price": 76570,
+   "images": [
+      {
+         "image": "/assets/images/uploads/b07012c.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/b07012c2.jpg"
+      }
+   ],
+   "description": "* Toalheiro Duplo St. Claire **CROMADO**\n* Comprimento: 60cm\n* Profundidade: 13,4cm",
+   "en_description": "* Finish: **CHROME**\n* Lenght: 60cm\n* Width: 13,4 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "* Finish: **CHROME**\n* Lenght: 60cm\n* Width: 13,4 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "model_3d": "https://3dwarehouse.sketchup.com/model/10c9ba8d-e0e0-488e-abf0-d3cb0dda1e73/Toalheiro-Duplo-Cromado-BRACCI-B07012C",
+   "relacionados": [
+      {
+         "produto": "B02004C"
+      },
+      {
+         "produto": "B02005C"
+      },
+      {
+         "produto": "B07002C"
+      },
+      {
+         "produto": "B07006C"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07012B"
+      },
+      {
+         "produto": "B07012BW"
+      },
+      {
+         "produto": "B07012G"
+      },
+      {
+         "produto": "B07012RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

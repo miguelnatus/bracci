@@ -1,0 +1,49 @@
+{
+	"title": "Cuba de Cozinha",
+	"en_title": "Kitchen Sink",
+	"it_title": "Lavello Della Cucina",
+	"reference": "B1504G",
+	"price": "4.158,70",
+	"images": [
+		{
+			"image": "/assets/images/uploads/8.png"
+		},
+		{
+			"image": "/assets/images/uploads/b1404-ss.png"
+		},
+		{
+			"image": "/assets/images/uploads/b1404-rr.png"
+		}
+	],
+	"description": "* Acabamento: **DOURADO**\n* Altura: 26,3 cm\n* Largura: 56,4 cm\n* Comprimento: 81,3 cm\n* Utilização: Indicado para cozinhas e área gourmet\n* Sem furo para misturador\n* Acompanha Válvula na cor do acabamento",
+	"en_description": "* Finish: **GOLD**\n* Measurements: 81,3 x 56,4 x 26,3 cm\n* Use: Suitable for kitchens and gourmet area\n* No hole for mixer\n* Accompanying valve in finish color",
+	"it_description": "* Finish: **GOLD**\n* Measurements: 81,3 x 56,4 x 26,3 cm\n* Use: Suitable for kitchens and gourmet area\n* No hole for mixer\n* Accompanying valve in finish color",
+	"model_3d": "https://3dwarehouse.sketchup.com/model/98a7d985-7c8d-4fec-ba19-b55c2187ead3/Cuba-de-Cozinha-Dourada-B1504G-BRACCI",
+	"relacionados": [
+		{
+			"produto": "B07021G"
+		}
+	],
+	"variations": [
+		{
+			"produto": "B1504RG"
+		}
+	],
+	"features": [
+		{
+			"feature": "material-aco"
+		},
+		{
+			"feature": "revestimento-pvd"
+		},
+		{
+			"feature": "sistema-topmount"
+		},
+		{
+			"feature": "garantia-5"
+		},
+		{
+			"feature": "acessorios"
+		}
+	]
+}

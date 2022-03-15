@@ -1,0 +1,43 @@
+{
+  "title": "Toalheiro Duplo",
+  "complement": "",
+  "en_title": "Double Towel Bar",
+  "it_title": "Double Towel Bar",
+  "reference": "B01024BN",
+  "price": 59670,
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01024bn.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01024bn-xy.jpg"
+    }
+  ],
+  "description": "* Toalheiro Duplo Vercci **AÇO ESCOVADO**\n* Comprimento: 55,2 cm\n* Profundidade: 12 cm",
+  "en_description": "* Finish: **BRUSHED NIQUEL**\n* Lenght: 55,2 cm\n* Width: 12 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **BRUSHED NIQUEL**\n* Lenght: 55,2 cm\n* Width: 12 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/9fe15df0-2658-4fe0-989d-977af195b8d2/Toalheiro-Duplo-Aço-Escovado-B01024BN-BRACCI",
+  "relacionados": [],
+  "variations": [
+    {
+      "produto": "B01024G"
+    },
+    {
+      "produto": "B01024RG"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

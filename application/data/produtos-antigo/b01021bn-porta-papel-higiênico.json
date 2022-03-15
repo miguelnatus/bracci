@@ -1,0 +1,43 @@
+{
+  "title": "Porta Papel Higiênico",
+  "complement": "",
+  "en_title": "Paper Holder",
+  "it_title": "Paper Holder",
+  "reference": "B01021BN",
+  "price": 27170,
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01021bn.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01021bn-zx.jpg"
+    }
+  ],
+  "description": "* Porta Papel Higiênico Vercci **AÇO ESCOVADO**\n* Comprimento: 21,4 cm\n* Profundidade: 7 cm",
+  "en_description": "* Finish: **BRUSHED NIQUEL**\n* Lenght: 21,4 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **BRUSHED NIQUEL**\n* Lenght: 21,4 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/f3928618-9580-4e5f-97d1-db46598d7111/Porta-Papel-Higiênico-Aço-Escovado-B01021BN-BRACCI",
+  "relacionados": [],
+  "variations": [
+    {
+      "produto": "B01021G"
+    },
+    {
+      "produto": "B01021RG"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

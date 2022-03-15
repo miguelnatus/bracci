@@ -1,0 +1,51 @@
+﻿{
+	"title": "Dispenser de Detergente Rose Gold",
+	"en_title": "Rose Gold Detergent Dispenser",
+	"it_title": "Rose Gold Detergent Dispenser",
+	"reference": "B1505RG",
+	"price": 19370,
+	"images": [
+		{
+			"image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1595942662/Produtos/Dispenser/B1505RG.jpg"
+		}
+	],
+	"description": "* Acabamento: **ROSE GOLD**\n* Recipiente: Plástico\n* Capacidade: 300ml\n* Furo para instalação: 35 mm\n* Utilização: Indicado para cozinha",
+	"en_description": "* Finish: **ROSE GOLD**\n* Container: Plastic \n* Capacity: 300ml \n* Hole for installation: 35 mm \n* Use: Suitable for kitchens\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+	"it_description": "* Finish: **ROSE GOLD**\n* Material: 304 Stainless Steel \n* Container: Plastic \n* Capacity: 300ml \n* Hole for installation: 35 mm \n* Use: Suitable for kitchens\n\n  05 year warranty nationwide\n\n  Comes with all installation accessories\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+	"relacionados": [
+		{
+			"produto": "B07021RG"
+		},
+		{
+			"produto": "B1501RG"
+		},
+		{
+			"produto": "B1502RG"
+		},
+		{
+			"produto": "B1504RG"
+		}
+	],
+	"variations": [
+		{
+			"produto": "B1505BN"
+		},
+		{
+			"produto": "B1505C"
+		},
+		{
+			"produto": "B1505G"
+		}
+	],
+	"features": [
+		{
+			"feature": "aco-inox"
+		},
+		{
+			"feature": "revestimento-pvd"
+		},
+		{
+			"feature": "garantia-5"
+		}
+	]
+}

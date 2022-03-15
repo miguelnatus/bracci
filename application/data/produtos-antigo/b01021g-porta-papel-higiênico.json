@@ -1,0 +1,42 @@
+{
+  "title": "Porta Papel Higiênico",
+  "en_title": "Paper Holder",
+  "it_title": "Paper Holder",
+  "reference": "B01021G",
+  "price": 27170,
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01021g.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01021g-aa.jpg"
+    }
+  ],
+  "description": "* Porta Papel Higiênico Vercci **GOLD**\n* Comprimento: 21,4 cm\n* Profundidade: 7 cm",
+  "en_description": "* Finish: **GOLD**\n* Lenght: 21,4 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **GOLD**\n* Lenght: 21,4 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/167d5a06-b195-4633-aa0a-efa7a1de71f7/Porta-Papel-Higiênico-Dourado-B01021G-BRACCI",
+  "relacionados": [],
+  "variations": [
+    {
+      "produto": "B01021BN"
+    },
+    {
+      "produto": "B01021RG"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

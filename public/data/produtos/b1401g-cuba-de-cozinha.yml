@@ -1,0 +1,42 @@
+title: Cuba de Cozinha
+en_title: Kitchen Sink
+it_title: Lavello Della Cucina
+reference: B1501G
+price: 2.858,70
+images:
+  - image: /assets/images/uploads/3.png
+  - image: /assets/images/uploads/b1401-ll.png
+  - image: /assets/images/uploads/b1401-tt.png
+description: |-
+  * Acabamento: **DOURADO**
+  * Altura: 25,4 cm
+  * Largura: 45,7 cm
+  * Comprimento: 67,3 cm
+  * Utilização: Indicado para cozinhas e área gourmet
+  * Sem furo para misturador
+  * Acompanha Válvula na cor do acabamento
+en_description: |-
+  * Finish: **GOLD**
+  * Measurements: 67.3 x 45.7 x 25.4 cm
+  * Use: Suitable for kitchens and gourmet area
+  * No hole for mixer
+  * Accompanying valve in finish color
+it_description: |-
+  * Finish: **GOLD**
+  * Measurements: 67.3 x 45.7 x 25.4 cm
+  * Use: Suitable for kitchens and gourmet area
+  * No hole for mixer
+  * Accompanying valve in finish color
+model_3d: https://3dwarehouse.sketchup.com/model/2882b2da-386b-429d-9a72-e685c5eb9211/Cuba-de-Cozinha-Dourada-B1501G-BRACCI
+relacionados:
+  - produto: B07021G
+variations:
+  - produto: B1501BN
+  - produto: B1501RG
+features:
+  - feature: material-aco
+  - feature: revestimento-pvd
+  - feature: sistema-topmount
+  - feature: sistema-undermount
+  - feature: garantia-5
+  - feature: acessorios

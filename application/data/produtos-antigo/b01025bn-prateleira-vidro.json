@@ -1,0 +1,57 @@
+{
+  "title": "Prateleira Vidro",
+  "en_title": "Glass Shelf",
+  "it_title": "Glass Shelf",
+  "reference": "B01025BN",
+  "price": 42770,
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01025bn.jpg"
+    }
+  ],
+  "description": "* Prateleira Vidro Vercci **AÇO ESCOVADO**",
+  "en_description": "* Finish: **BRUSHED NICKEL**\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **BRUSHED NICKEL**\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "relacionados": [
+    {
+      "produto": "B01020BN"
+    },
+    {
+      "produto": "B01021BN"
+    },
+    {
+      "produto": "B01022BN"
+    },
+    {
+      "produto": "B01023BN"
+    },
+    {
+      "produto": "B01024BN"
+    }
+  ],
+  "variations": [
+    {
+      "produto": "B01025B"
+    },
+    {
+      "produto": "B01025C"
+    },
+    {
+      "produto": "B01025G"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

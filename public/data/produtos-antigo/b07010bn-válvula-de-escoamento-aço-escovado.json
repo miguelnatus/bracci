@@ -1,0 +1,57 @@
+{
+   "title": "Válvula de Escoamento Aço Escovado",
+   "en_title": "Válvula de Escoamento Aço Escovado",
+   "it_title": "Válvula de Escoamento Aço Escovado",
+   "reference": "B07010BN",
+   "price": "00000",
+   "images": [
+      {
+         "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1596461502/Produtos/Complementos/valvula_bn.jpg"
+      }
+   ],
+   "description": "\n\n* Válvula de Escoamento **AÇO ESCOVADO**\n* Medida G 1 1/4\n* Acionamento clic-clac",
+   "en_description": "\n\n* Finish: **BRUSHEED NICKEL**\n* Measure G 1 1/4\n* Click-clac activation",
+   "it_description": "\n\n* Finish: **BRUSHEED NICKEL**\n* Measure G 1 1/4\n* Click-clac activation",
+   "relacionados": [
+      {
+         "produto": "B09003BN"
+      },
+      {
+         "produto": "B09005BN"
+      },
+      {
+         "produto": "B09006BN"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07010B"
+      },
+      {
+         "produto": "B07010BW"
+      },
+      {
+         "produto": "B07010C"
+      },
+      {
+         "produto": "B07010G"
+      },
+      {
+         "produto": "B07010RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

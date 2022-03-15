@@ -1,0 +1,90 @@
+{
+  "title": "Misturador Monocomando Vercci Slim",
+  "complement": "",
+  "en_title": "Single Lever Faucet",
+  "it_title": "Single Lever Faucet",
+  "reference": "B01035G2",
+  "price": "1.414,40",
+  "images": [
+    {
+      "image": "/assets/images/uploads/06g.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/04g.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/05g.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01035g2-xx.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01035c2.jpg"
+    }
+  ],
+  "description": "* Acabamento: **Dourado**\n* Utilização: Indicado para lavabos e banheiros\n* Indicação de quente e frio para melhor ajuste da temperatura\n* Comprimento da Bica: 16,8cm\n* Altura da Bica: 25cm\n* Furação necessária: 01 (35mm)\n* Bica Fixa\n* Conexão: G ½ (Padrão)",
+  "en_description": "\n\n* Acabamento: **Dourado**\n* Utilização: Indicado para lavabos e banheiros\n* Indicação de quente e frio para melhor ajuste da temperatura\n* Comprimento da Bica: 16,8cm\n* Altura da Bica: 25cm\n* Furação necessária: 01 (35mm)\n* Bica Fixa\n* Conexão: G ½ (Padrão)",
+  "it_description": "\n\n* Acabamento: **Dourado**\n* Utilização: Indicado para lavabos e banheiros\n* Indicação de quente e frio para melhor ajuste da temperatura\n* Comprimento da Bica: 16,8cm\n* Altura da Bica: 25cm\n* Furação necessária: 01 (35mm)\n* Bica Fixa\n* Conexão: G ½ (Padrão)",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/7cdc17dc-5be0-4e23-8b5d-3fe6112cd0fb/Misturador-Monocomando-Vercci-Slim-Dourado-BRACCI-B01035G2",
+  "video": "x2Cr6FAIjmc",
+  "relacionados": [
+    {
+      "produto": "B07004G"
+    },
+    {
+      "produto": "B07005G"
+    },
+    {
+      "produto": "B07006G"
+    },
+    {
+      "produto": "B07010G"
+    },
+    {
+      "produto": "B07018G"
+    },
+    {
+      "produto": "B07019G"
+    }
+  ],
+  "variations": [
+    {
+      "produto": "B01035BN2"
+    },
+    {
+      "produto": "B01035C2"
+    },
+    {
+      "produto": "B01035RG2"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "monocomando"
+    },
+    {
+      "feature": "quente-frio"
+    },
+    {
+      "feature": "arejador-neoperl"
+    },
+    {
+      "feature": "durabilidade-600000"
+    },
+    {
+      "feature": "pressao-4-mca"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

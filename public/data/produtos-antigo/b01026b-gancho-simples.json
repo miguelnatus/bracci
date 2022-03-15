@@ -1,0 +1,49 @@
+{
+  "title": "Gancho Simples",
+  "en_title": "Single Hook",
+  "it_title": "Single Hook",
+  "reference": "B01026B",
+  "price": 40870,
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01026b.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01026c.jpg"
+    }
+  ],
+  "description": "* Gancho Simples Vercci **PRETO FOSCO**\n* Comprimento: 4,8 cm\n* Profundidade: 5,9 cm",
+  "en_description": "* Finish: **MATTE BLACK**\n* Lenght: 4,8 cm\n* Width: 5,9 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **MATTE BLACK**\n* Lenght: 4,8 cm\n* Width: 5,9 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/0f5172f3-e23c-466a-8aba-dc69fe7a19ae/Gancho-Simples-Preto-Fosco-BRACCI-B01026B",
+  "relacionados": [
+    {
+      "produto": "B02006B"
+    },
+    {
+      "produto": "B02006B-2 - Preto Fosco"
+    },
+    {
+      "produto": "B02008B"
+    }
+  ],
+  "variations": [
+    {
+      "produto": "B01026C"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

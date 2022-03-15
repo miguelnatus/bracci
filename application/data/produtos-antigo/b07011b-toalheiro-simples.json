@@ -1,0 +1,48 @@
+{
+   "title": "Toalheiro Simples",
+   "en_title": "Single Towel Bar",
+   "it_title": "Single Towel Bar",
+   "reference": "B07011B",
+   "price": 63570,
+   "images": [
+      {
+         "image": "/assets/images/uploads/b07011b.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/b07011g-hh.jpg"
+      }
+   ],
+   "description": "* Toalheiro Simples St. Claire **PRETO FOSCO**\n* Comprimento: 60cm\n* Largura: 7,5cm",
+   "en_description": "* Finish: **MATTE BLACK**\n* Lenght: 60 cm\n* Width: 7,5 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "* Finish: **MATTE BLACK**\n* Lenght: 60 cm\n* Width: 7,5 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "model_3d": "https://3dwarehouse.sketchup.com/model/d666e617-d34e-40ea-a2e2-cfc0105fe30b/Toalheiro-Simples-Preto-Fosco-BRACCI-B07011B",
+   "relacionados": [],
+   "variations": [
+      {
+         "produto": "B07011BW"
+      },
+      {
+         "produto": "B07011C"
+      },
+      {
+         "produto": "B07011G"
+      },
+      {
+         "produto": "B07011RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

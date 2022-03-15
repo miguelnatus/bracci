@@ -1,0 +1,23 @@
+{
+   "title": "Parisi",
+   "en_title": "Parisi",
+   "it_title": "Parisi",
+   "image": "/assets/images/uploads/parisi.jpg",
+   "produtos": [
+      {
+         "produto": "B01005G"
+      },
+      {
+         "produto": "B01006G"
+      },
+      {
+         "produto": "B01007C"
+      },
+      {
+         "produto": "B01008C"
+      },
+      {
+         "produto": "B01009C"
+      }
+   ]
+}

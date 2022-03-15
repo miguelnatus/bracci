@@ -1,0 +1,49 @@
+{
+  "title": "Porta Papel Higiênico",
+  "en_title": "Paper Holder",
+  "it_title": "Paper Holder",
+  "reference": "B01027B",
+  "price": 32370,
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01027b.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01027c.jpg"
+    }
+  ],
+  "description": "* Porta Papel Higiênico Vercci **PRETO FOSCO**\n* Comprimento: 17,3 cm\n* Profundidade: 7,7 cm",
+  "en_description": "* Finish: **MATTE BLACK**\n* Lenght: 17,3 cm\n* Width: 7,7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **MATTE BLACK**\n* Lenght: 17,3 cm\n* Width: 7,7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/e7fd23a4-13c5-4c94-abea-ea132588db74/Papeleira-Preto-Fosco-BRACCI-B01027B",
+  "relacionados": [
+    {
+      "produto": "B02006B"
+    },
+    {
+      "produto": "B02006B-2 - Preto Fosco"
+    },
+    {
+      "produto": "B02008B"
+    }
+  ],
+  "variations": [
+    {
+      "produto": "B01027C"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+﻿{
+	"title": "Dispenser de Detergente Cromado",
+	"en_title": "Chrome Detergent Dispenser",
+	"it_title": "Chrome Detergent Dispenser",
+	"reference": "B1505C",
+	"price": 19370,
+	"images": [
+		{
+			"image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1595942662/Produtos/Dispenser/B1505C.jpg"
+		}
+	],
+	"description": "* Acabamento: **CROMADO**\n* Recipiente: Plástico\n* Capacidade: 300ml\n* Furo para instalação: 35 mm\n* Utilização: Indicado para cozinha",
+	"en_description": "* Finish: **CHROME**\n* Container: Plastic \n* Capacity: 300ml \n* Hole for installation: 35 mm \n* Use: Suitable for kitchens\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+	"it_description": "* Finish: **CHROME**\n* Container: Plastic \n* Capacity: 300ml \n* Hole for installation: 35 mm \n* Use: Suitable for kitchens\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+	"relacionados": [
+		{
+			"produto": "B01012C"
+		},
+		{
+			"produto": "B01011C "
+		},
+		{
+			"produto": "B1501BN"
+		},
+		{
+			"produto": "B1502BN"
+		}
+	],
+	"variations": [
+		{
+			"produto": "B1505BN"
+		},
+		{
+			"produto": "B1505G"
+		},
+		{
+			"produto": "B1505RG"
+		}
+	],
+	"features": [
+		{
+			"feature": "aco-inox"
+		},
+		{
+			"feature": "revestimento-pvd"
+		},
+		{
+			"feature": "garantia-5"
+		}
+	]
+}

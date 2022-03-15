@@ -1,0 +1,61 @@
+{
+   "title": "Toalheiro Simples",
+   "en_title": "Single Towel Bar",
+   "it_title": "Single Towel Bar",
+   "reference": "B07011G",
+   "price": 63570,
+   "images": [
+      {
+         "image": "/assets/images/uploads/b07011g.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/b06001rg-2-.jpg"
+      }
+   ],
+   "description": "* Toalheiro Simples St. Claire **DOURADO**\n* Comprimento: 60 cm\n* Largura: 7,5 cm",
+   "en_description": "* Finish: **GOLD**\n* Lenght: 60 cm\n* Width: 7,5 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "* Finish: **GOLD**\n* Lenght: 60 cm\n* Width: 7,5 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "model_3d": "https://3dwarehouse.sketchup.com/model/394562cc-46a7-4328-9fb1-0bfc1dfb2adc/Toalheiro-Simples-Dourado-BRACCI-B07011G",
+   "relacionados": [
+      {
+         "produto": "B02001G"
+      },
+      {
+         "produto": "B02003G"
+      },
+      {
+         "produto": "B02004G"
+      },
+      {
+         "produto": "B02005G"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07011B"
+      },
+      {
+         "produto": "B07011BW"
+      },
+      {
+         "produto": "B07011C"
+      },
+      {
+         "produto": "B07011RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

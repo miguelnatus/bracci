@@ -1,0 +1,41 @@
+{
+  "title": "Gancho Simples ",
+  "en_title": "Single Hook",
+  "it_title": "Single Hook",
+  "reference": "B01020RG",
+  "price": 20670,
+  "images": [
+    {
+      "image": "/assets/images/uploads/rg-1-.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/img-4e3635ba31304c7e.jpeg"
+    }
+  ],
+  "description": "* Gancho Simples Vercci **ROSE GOLD**\n* Comprimento: 4,8 cm\n* Profundidade: 7 cm",
+  "en_description": "* Finish: **ROSE GOLD**\n* Lenght: 4,8 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **ROSE GOLD**\n* Lenght: 4,8 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/14024383-8039-4459-8ee3-3a36f42d0d8e/Gancho-Simples-Rose-Red-Gold-BRACCI-B01020RG",
+  "variations": [
+    {
+      "produto": "B01020BN"
+    },
+    {
+      "produto": "B01020G"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+title: Cuba de Cozinha
+en_title: Kitchen Sink
+it_title: Lavello Della Cucina
+reference: B1503BN
+price: '2.858,70'
+images:
+  - image: /assets/images/uploads/7.png
+  - image: /assets/images/uploads/b1403bn.png
+  - image: /assets/images/uploads/b1403bnww.png
+description: |-
+  * Acabamento: **AÇO ESCOVADO**
+  * Altura: 21,5 cm
+  * Largura: 47 cm
+  * Comprimento: 90 cm
+  * Utilização: Indicado para cozinhas e área gourmet
+  * Um furo para misturador
+  * Um furo para dispenser
+  * Acompanha Válvula na cor do acabamento
+en_description: |-
+  * Finish: **BRUSHED NICKEL**
+  * Measurements: 90 x 47 x 21,5 cm
+  * Use: Suitable for kitchens and gourmet area
+  * Accompanying valve in finish color
+  * Accompanies all installation accessories
+it_description: |-
+  * Finish: **BRUSHED NICKEL**
+  * Measurements: 90 x 47 x 21,5 cm
+  * Use: Suitable for kitchens and gourmet area
+  * Accompanying valve in finish color
+  * Accompanies all installation accessories
+model_3d: >-
+  https://3dwarehouse.sketchup.com/model/3c79258e-969f-4cac-ba6f-09aa6029d959/Cuba-de-Cozinha-Aço-Escovado-B1503BN-BRACCI
+relacionados:
+  - produto: B01010BN
+  - produto: B01034BN
+features:
+  - feature: material-aco
+  - feature: revestimento-pvd
+  - feature: sistema-topmount
+  - feature: garantia-5
+  - feature: acessorios

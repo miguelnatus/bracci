@@ -1,0 +1,214 @@
+﻿[
+	{
+		"title": "Preto Fosco",
+		"en_title": "Matte Black",
+		"it_title": "Fosco Nero",
+		"description": "Atenção: todos os produtos desta página possuem a mesma\ntonalidade. As fotos podem variar de acordo com a luz e ambiente que foram\ntiradas",
+		"en_description": "Attention: all products on this page have the same color.\nPhotos may vary depending on the light and environment that were taken",
+		"it_description": "Attenzione: tutti i prodotti in questa pagina hanno lo stesso\ncolore. Le foto possono variare a seconda della luce e dell'ambiente che sono\nstate scattate",
+		"image": "/assets/images/acabamentos/acabamento-pretofosco.png",
+		"linhas": [
+			{
+				"title": "St. Claire",
+				"en_title": "St. Claire",
+				"it_title": "St. Claire",
+				"produtos": [
+					{
+						"produto": "B02005B"
+					}
+				]
+			},
+			{
+				"title": "St. Claire Preto Fosco",
+				"en_title": "St. Claire Preto Fosco",
+				"it_title": "St. Claire Preto Fosco",
+				"produtos": [
+					{
+						"produto": "B07011B"
+					},
+					{
+						"produto": "B07012B"
+					},
+					{
+						"produto": "B07013B"
+					},
+					{
+						"produto": "B07014B"
+					},
+					{
+						"produto": "B07015B"
+					},
+					{
+						"produto": "B07016B"
+					}
+				]
+			},
+			{
+				"title": "Vercci",
+				"en_title": "Vercci",
+				"it_title": "Vercci",
+				"produtos": [
+					{
+						"produto": "B09001B"
+					},
+					{
+						"produto": "B09002B"
+					}
+				]
+			},
+			{
+				"title": "Vercci Preto Fosco",
+				"en_title": "Vercci Preto Fosco",
+				"it_title": "Vercci Preto Fosco",
+				"produtos": [
+					{
+						"produto": "B01029B "
+					},
+					{
+						"produto": "B01030B"
+					},
+					{
+						"produto": "B01031B "
+					},
+					{
+						"produto": "B01028B "
+					},
+					{
+						"produto": "B01027B "
+					},
+					{
+						"produto": "B01026B"
+					},
+					{
+						"produto": "B01025B"
+					}
+				]
+			},
+			{
+				"title": "Cirrus",
+				"en_title": "Cirrus",
+				"it_title": "Cirrus",
+				"produtos": [
+					{
+						"produto": "B02006B"
+					},
+					{
+						"produto": "B02006B2"
+					}
+				]
+			},
+			{
+				"title": "Novacci",
+				"en_title": "Novacci",
+				"it_title": "Novacci",
+				"produtos": [
+					{
+						"produto": "B02007B"
+					},
+					{
+						"produto": "B02008B"
+					}
+				]
+			},
+			{
+				"title": "St. Louise",
+				"en_title": "St. Louise",
+				"it_title": "St. Louise",
+				"produtos": [
+					{
+						"produto": "B07021B"
+					}
+				]
+			},
+			{
+				"title": "Cubas de Cozinha ",
+				"en_title": "Kitchen Sinks",
+				"it_title": "Lavellos Della Cucina",
+				"produtos": [
+					{
+						"produto": "B1501DG"
+					}
+				]
+			},
+			{
+				"title": "Chuveiros",
+				"en_title": "Chuveiros",
+				"it_title": "Chuveiros",
+				"produtos": [
+					{
+						"produto": "B07004B "
+					},
+					{
+						"produto": "B07005B"
+					},
+					{
+						"produto": "B07002B"
+					},
+					{
+						"produto": "B07003B"
+					},
+					{
+						"produto": "B09004B"
+					}
+				]
+			},
+			{
+				"title": "Chuveiros Termostáticos",
+				"en_title": "Thermostatic Showers",
+				"it_title": "Thermostatic Showers",
+				"produtos": [
+					{
+						"produto": "B02017B"
+					}
+				]
+			},
+			{
+				"title": "Complementos",
+				"en_title": "Complementos",
+				"it_title": "Complementos",
+				"produtos": [
+					{
+						"produto": "B07001B"
+					},
+					{
+						"produto": "B09003B"
+					},
+					{
+						"produto": "B07018B"
+					},
+					{
+						"produto": "B07010B"
+					},
+					{
+						"produto": "B07006B"
+					},
+					{
+						"produto": "B07019B"
+					},
+					{
+						"produto": "B09005B"
+					},
+					{
+						"produto": "B09006B"
+					}
+				]
+			},
+			{
+				"title": "Misturador de Piso",
+				"en_title": "Misturador de Piso",
+				"it_title": "Misturador de Piso",
+				"produtos": [
+					{
+						"produto": "B07009B"
+					},
+					{
+						"produto": "B09011B"
+					},
+					{
+						"produto": "B09010B"
+					}
+				]
+			}
+		]
+	}
+]

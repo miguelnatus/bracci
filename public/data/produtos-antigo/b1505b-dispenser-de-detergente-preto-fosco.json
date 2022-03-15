@@ -1,0 +1,40 @@
+﻿{
+	"title": "Dispenser de Detergente Preto Fosco",
+	"en_title": "Black Matte Detergent Dispenser",
+	"it_title": "Black Matte Detergent Dispenser",
+	"reference": "B1505B",
+	"price": "000000",
+	"images": [
+		{
+			"image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1595942662/Produtos/Dispenser/B1505B.jpg"
+		}
+	],
+	"description": "\n\n* Acabamento: **PRETO FOSCO**\n* Recipiente: Plástico\n* Capacidade: 300ml\n* Furo para instalação: 35 mm\n* Utilização: Indicado para cozinha",
+	"en_description": "\n\n* Finish: **BLACK MATTE**\n* Container: Plastic \n* Capacity: 300ml \n* Hole for installation: 35 mm \n* Use: Suitable for kitchen",
+	"it_description": "\n\n* Finish: **BLACK MATTE**\n* Container: Plastic \n* Capacity: 300ml \n* Hole for installation: 35 mm \n* Use: Suitable for kitchen",
+	"variations": [
+		{
+			"produto": "B1505BN"
+		},
+		{
+			"produto": "B1505C"
+		},
+		{
+			"produto": "B1505G"
+		},
+		{
+			"produto": "B1505RG"
+		}
+	],
+	"features": [
+		{
+			"feature": "aco-inox"
+		},
+		{
+			"feature": "revestimento-pvd"
+		},
+		{
+			"feature": "garantia-5"
+		}
+	]
+}

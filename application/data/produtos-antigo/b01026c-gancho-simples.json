@@ -1,0 +1,38 @@
+{
+  "title": "Gancho Simples",
+  "en_title": "Single Hook",
+  "it_title": "Single Hook",
+  "reference": "B01026C",
+  "price": 14170,
+  "images": [
+    {
+      "image": "/assets/images/uploads/img-777c9937e6471c71.jpeg"
+    },
+    {
+      "image": "/assets/images/uploads/img-29b80533d8cfa961.jpeg"
+    }
+  ],
+  "description": "* Gancho Simples Vercci **CROMADO**\n* Comprimento: 4,8 cm\n* Profundidade: 5,9 cm",
+  "en_description": "* Finish: **CHROME**\n* Lenght: 4,8 cm\n* Width: 5,9 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **CHROME**\n* Lenght: 4,8 cm\n* Width: 5,9 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/75d89895-de19-4da3-a189-50d8eb4085e0/Gancho-Simples-Cromado-BRACCI-B01026C",
+  "variations": [
+    {
+      "produto": "B01026B"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

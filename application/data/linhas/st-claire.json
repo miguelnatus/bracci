@@ -1,0 +1,60 @@
+{
+   "title": "St. Claire",
+   "en_title": "St. Claire",
+   "it_title": "St. Claire",
+   "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_fit,f_auto,h_200,q_auto,w_200/v1592331701/Linhas/Design_sem_nome_41.jpg",
+   "column_3": true,
+   "produtos": [
+      {
+         "produto": "B02001RG"
+      },
+      {
+         "produto": "B02002RG"
+      },
+      {
+         "produto": "B02005RG"
+      },
+      {
+         "produto": "B02003RG"
+      },
+      {
+         "produto": "B02004RG"
+      },
+      {
+         "produto": "B01014RG "
+      },
+      {
+         "produto": "B02001G"
+      },
+      {
+         "produto": "B02004G"
+      },
+      {
+         "produto": "B02005G "
+      },
+      {
+         "produto": "B02003G "
+      },
+      {
+         "produto": "B02004C"
+      },
+      {
+         "produto": "B02005C"
+      },
+      {
+         "produto": "B02005B"
+      },
+      {
+         "produto": "B02002BW"
+      },
+      {
+         "produto": "B02003BW"
+      },
+      {
+         "produto": "B02003ORB"
+      },
+      {
+         "produto": "B02001BN"
+      }
+   ]
+}

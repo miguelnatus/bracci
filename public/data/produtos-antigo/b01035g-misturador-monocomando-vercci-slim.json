@@ -1,0 +1,87 @@
+{
+  "title": "Misturador Monocomando Vercci Slim",
+  "complement": "",
+  "en_title": "Single Lever Faucet",
+  "it_title": "Single Lever Faucet",
+  "reference": "B01035G",
+  "price": "955,50",
+  "images": [
+    {
+      "image": "/assets/images/uploads/02g.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/03g.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01035g-hx.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01035c.jpg"
+    }
+  ],
+  "description": "* Acabamento: **Dourado**\n* Utilização: Indicado para lavabos e banheiros\n* Indicação de quente e frio para melhor ajuste da temperatura\n* Comprimento da Bica: 13cm\n* Altura da Bica: 12,6cm\n* Furação necessária: 01 (35mm)\n* Bica Fixa\n* Conexão: G ½ (Padrão)",
+  "en_description": "\n\n* Acabamento: **Dourado**\n* Utilização: Indicado para lavabos e banheiros\n* Indicação de quente e frio para melhor ajuste da temperatura\n* Comprimento da Bica: 13cm\n* Altura da Bica: 12,6cm\n* Furação necessária: 01 (35mm)\n* Bica Fixa\n* Conexão: G ½ (Padrão)",
+  "it_description": "\n\n* Acabamento: **Dourado**\n* Utilização: Indicado para lavabos e banheiros\n* Indicação de quente e frio para melhor ajuste da temperatura\n* Comprimento da Bica: 13cm\n* Altura da Bica: 12,6cm\n* Furação necessária: 01 (35mm)\n* Bica Fixa\n* Conexão: G ½ (Padrão)",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/14627574-1f12-4fec-8b4c-1a0f503cc43c/Misturador-Monocomando-Vercci-Slim-Dourado-BRACCI-B01035G",
+  "video": "KSQB6xSMjLs",
+  "relacionados": [
+    {
+      "produto": "B07004G"
+    },
+    {
+      "produto": "B07005G"
+    },
+    {
+      "produto": "B07006G"
+    },
+    {
+      "produto": "B07010G"
+    },
+    {
+      "produto": "B07018G"
+    },
+    {
+      "produto": "B07019G"
+    }
+  ],
+  "variations": [
+    {
+      "produto": "B01035BN"
+    },
+    {
+      "produto": "B01035C"
+    },
+    {
+      "produto": "B01035RG"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "monocomando"
+    },
+    {
+      "feature": "quente-frio"
+    },
+    {
+      "feature": "arejador-neoperl"
+    },
+    {
+      "feature": "durabilidade-600000"
+    },
+    {
+      "feature": "pressao-2-mca"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

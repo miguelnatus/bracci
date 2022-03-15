@@ -1,0 +1,52 @@
+﻿{
+	"title": "Cuba de Cozinha Dupla",
+	"en_title": "Double Kitchen Sink",
+	"it_title": "Lavello Della Cucina Duo",
+	"reference": "B1502RG",
+	"price": "3.508,70",
+	"images": [
+		{
+			"image": "/assets/images/uploads/6.png"
+		},
+		{
+			"image": "/assets/images/uploads/b1402mm.png"
+		},
+		{
+			"image": "/assets/images/uploads/b1402hh.png"
+		}
+	],
+	"description": "* Acabamento: **ROSE GOLD**\n* Altura: 24 cm\n* Largura: 45,6 cm\n* Comprimento: 76,2 cm\n* Utilização: Indicado para cozinhas e área gourmet\n* Sem furo para misturador\n* Acompanha Válvula na cor do acabamento",
+	"en_description": "* Finish: **ROSE GOLD**\n* Measurements: 76,2 x 45,6 x 24 cm\n* Use: Suitable for kitchens and gourmet area\n* No hole for mixer\n* Accompanying valve in finish color",
+	"it_description": "* Finish: **ROSE GOLD**\n* Measurements: 76,2 x 45,6 x 24 cm\n* Use: Suitable for kitchens and gourmet area\n* No hole for mixer\n* Accompanying valve in finish color",
+	"model_3d": "https://3dwarehouse.sketchup.com/model/710abc3b-01ff-47a3-9da8-194ffa805269/Cuba-de-Cozinha-Dupla-Rose-Red-Gold-B1502RG-BRACCI",
+	"relacionados": [
+		{
+			"produto": "B07021RG"
+		}
+	],
+	"variations": [
+		{
+			"produto": "B1502BN"
+		}
+	],
+	"features": [
+		{
+			"feature": "material-aco"
+		},
+		{
+			"feature": "revestimento-pvd"
+		},
+		{
+			"feature": "sistema-topmount"
+		},
+		{
+			"feature": "sistema-undermount"
+		},
+		{
+			"feature": "garantia-5"
+		},
+		{
+			"feature": "acessorios"
+		}
+	]
+}

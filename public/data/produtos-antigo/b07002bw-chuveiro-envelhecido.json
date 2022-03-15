@@ -1,0 +1,64 @@
+{
+   "title": "Chuveiro Envelhecido",
+   "en_title": "Aged Shower",
+   "it_title": "Aged Shower",
+   "reference": "B07002BW",
+   "price": "1.414,40",
+   "images": [
+      {
+         "image": "/assets/images/uploads/img-6c448a670c86a60a.jpeg"
+      },
+      {
+         "image": "/assets/images/uploads/415130.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/415129.jpg"
+      }
+   ],
+   "description": "* Acabamento **MARROM ENVELHECIDO**\n* Comprimento: 43cm\n* Diâmetro: 20 cm (8 polegadas)\n* Pressão máx MCA: 40\n* Instalação com monocomando de parede ou registros separados (quente e frio)\n* Necessário aquecimento central (gás / solar)",
+   "en_description": "* Finish: **AGED BROWN**\n* Length: 43cm\n* Diameter: 20 cm (8 inches)\n* Smooth Single handle operation\n* Recommended for bathrooms\n* Low lead compliant - meeting federal and state regulations for lead content\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "\n\n* Finish: **AGED BROWN**\n* Length: 43cm\n* Diameter: 20 cm (8 inches)\n* Smooth Single handle operation\n* Recommended for bathrooms\n* Low lead compliant - meeting federal and state regulations for lead content\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "model_3d": "https://3dwarehouse.sketchup.com/model/6b5fb7a5-91cd-4544-9a55-8b57fb18067d/Chuveiro-de-Parede-Marrom-Envelhecido-BRACCI-B07002BW",
+   "relacionados": [
+      {
+         "produto": "B07006BW"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07002B"
+      },
+      {
+         "produto": "B07002C"
+      },
+      {
+         "produto": "B07002G"
+      },
+      {
+         "produto": "B07002RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "pressao-6-mca"
+      },
+      {
+         "feature": "vazao-minima"
+      },
+      {
+         "feature": "vazao-maxima"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

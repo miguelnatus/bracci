@@ -1,0 +1,208 @@
+﻿[	
+	{
+		"title": "Rose Gold",
+		"en_title": "Rose Gold",
+		"it_title": "Rose Gold",
+		"description": "Misturadores, chuveiros, accessórios e complementos com o acabamento rose gold",
+		"en_description": "Misturadores, chuveiros, accessórios e complementos com o acabamento rose gold",
+		"it_description": "Misturadores, chuveiros, accessórios e complementos com o acabamento rose gold",
+		"image": "/assets/images/acabamentos/acabamento-rosegold.png",
+		"linhas": [
+			{
+				"title": "St. Claire",
+				"en_title": "St. Claire",
+				"it_title": "St. Claire",
+				"produtos": [
+					{
+						"produto": "B02001RG"
+					},
+					{
+						"produto": "B02002RG"
+					},
+					{
+						"produto": "B02004RG"
+					},
+					{
+						"produto": "B02003RG"
+					},
+					{
+						"produto": "B02005RG"
+					},
+					{
+						"produto": "B01014RG "
+					}
+				]
+			},
+			{
+				"title": "St Claire Rose Gold",
+				"en_title": "St Claire Rose Gold",
+				"it_title": "St Claire Rose Gold",
+				"produtos": [
+					{
+						"produto": "B07011RG"
+					},
+					{
+						"produto": "B07012RG"
+					},
+					{
+						"produto": "B07013RG"
+					},
+					{
+						"produto": "B07014RG"
+					},
+					{
+						"produto": "B07015RG"
+					},
+					{
+						"produto": "B07016RG"
+					}
+				]
+			},
+			{
+				"title": "Vercci",
+				"en_title": "Vercci",
+				"it_title": "Vercci",
+				"produtos": [
+					{
+						"produto": "B01017RG"
+					},
+					{
+						"produto": "B01019RG "
+					},
+					{
+						"produto": "B01035RG"
+					},
+					{
+						"produto": "B01035RG2"
+					},
+					{
+						"produto": "B09001RG"
+					},
+					{
+						"produto": "B09002RG"
+					}
+				]
+			},
+			{
+				"title": "Vercci Rose Gold",
+				"en_title": "Vercci Rose Gold",
+				"it_title": "Vercci Rose Gold",
+				"produtos": [
+					{
+						"produto": "B01023RG"
+					},
+					{
+						"produto": "B01024RG"
+					},
+					{
+						"produto": "B01022RG"
+					},
+					{
+						"produto": "B01021RG"
+					},
+					{
+						"produto": "B01020RG"
+					}
+				]
+			},
+			{
+				"title": "Chuveiros",
+				"en_title": "Chuveiros",
+				"it_title": "Chuveiros",
+				"produtos": [
+					{
+						"produto": "B02016RG"
+					},
+					{
+						"produto": "B07002RG"
+					},
+					{
+						"produto": "B07003RG "
+					},
+					{
+						"produto": "B07004RG"
+					},
+					{
+						"produto": "B07005RG "
+					},
+					{
+						"produto": "B09004RG"
+					}
+				]
+			},
+			{
+				"title": "Complementos",
+				"en_title": "Complementos",
+				"it_title": "Complementos",
+				"produtos": [
+					{
+						"produto": "B07001RG"
+					},
+					{
+						"produto": "B09003RG"
+					},
+					{
+						"produto": "B07026RG"
+					},
+					{
+						"produto": "B07010RG"
+					},
+					{
+						"produto": "B07018RG"
+					},
+					{
+						"produto": "B07006RG"
+					},
+					{
+						"produto": "B07019RG"
+					},
+					{
+						"produto": "B09005RG"
+					},
+					{
+						"produto": "B09006RG"
+					}
+				]
+			},
+			{
+				"title": "Misturador de Piso",
+				"en_title": "Misturador de Piso",
+				"it_title": "Misturador de Piso",
+				"produtos": [
+					{
+						"produto": "B07009RG"
+					}
+				]
+			},
+			{
+				"title": "St. Louise",
+				"en_title": "St. Louise",
+				"it_title": "St. Louise",
+				"produtos": [
+					{
+						"produto": "B01036RG"
+					},
+					{
+						"produto": "B07021RG"
+					}
+				]
+			},
+			{
+				"title": "Cubas de Cozinha",
+				"en_title": "Kitchen Bowls",
+				"it_title": "Lavellos Della Cucina",
+				"produtos": [
+					{
+						"produto": "B1501RG"
+					},
+					{
+						"produto": "B1502RG"
+					},
+					{
+						"produto": "B1504RG"
+					}
+				]
+			}
+		]
+	}
+]

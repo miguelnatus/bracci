@@ -1,0 +1,44 @@
+title: "Gancho Simples "
+complement: ""
+en_title: Single Hook
+it_title: Single Hook
+reference: B01020BN
+price: 206,70
+images:
+  - image: https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1610477441/Produtos/A%C3%A7o%20Escovado/novas_9.png
+  - image: https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1610460105/Produtos/A%C3%A7o%20Escovado/detalhes_1.png
+  - image: /assets/images/uploads/b01020bn-xx.jpg
+description: |-
+  * Gancho Simples Vercci **AÇO ESCOVADO**
+  * Comprimento: 4,8 cm
+  * Profundidade: 7 cm
+en_description: |-
+  * Finish: **BRUSHED NIQUEL**
+  * Lenght: 4,8 cm
+  * Width: 7 cm
+
+  **Why should you buy BRACCI?**
+
+  * Premier finishing product - 5 years warranty worldwide
+  * Italian Design
+  * Products choice and installation support by our specialist team
+it_description: |-
+  * Finish: **BRUSHED NIQUEL**
+  * Lenght: 4,8 cm
+  * Width: 7 cm
+
+  **Why should you buy BRACCI?**
+
+  * Premier finishing product - 5 years warranty worldwide
+  * Italian Design
+  * Products choice and installation support by our specialist team
+model_3d: https://3dwarehouse.sketchup.com/model/acea8044-b05a-4804-b7d5-02174eb61905/Gancho-Simples-Aço-Escovado-B01020BN-BRACCI
+relacionados: []
+variations:
+  - produto: B01020G
+  - produto: B01020RG
+features:
+  - feature: material-bronze
+  - feature: revestimento-pvd
+  - feature: garantia-5
+  - feature: acessorios

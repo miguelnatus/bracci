@@ -1,0 +1,52 @@
+{
+   "title": "Cubas de Cozinha",
+   "en_title": "Kitchen Sinks",
+   "it_title": "Lavellos Della Cucina",
+   "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_fit,f_auto,h_200,q_auto,w_200/v1583763611/Homepage/homepage_1.jpg",
+   "column_3": false,
+   "new": false,
+   "produtos": [
+      {
+         "produto": "B1501BN"
+      },
+      {
+         "produto": "B1501DG"
+      },
+      {
+         "produto": "B1501G"
+      },
+      {
+         "produto": "B1501RG"
+      },
+      {
+         "produto": "B1502BN"
+      },
+      {
+         "produto": "B1502RG"
+      },
+      {
+         "produto": "B1503BN"
+      },
+      {
+         "produto": "B1504G"
+      },
+      {
+         "produto": "B1504RG"
+      },
+      {
+         "produto": "B1505B"
+      },
+      {
+         "produto": "B1505BN"
+      },
+      {
+         "produto": "B1505C"
+      },
+      {
+         "produto": "B1505G"
+      },
+      {
+         "produto": "B1505RG"
+      }
+   ]
+}

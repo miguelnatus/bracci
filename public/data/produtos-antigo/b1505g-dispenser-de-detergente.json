@@ -1,0 +1,48 @@
+﻿{
+	"title": "Dispenser de Detergente Dourado",
+	"en_title": "Gold Detergent Dispenser",
+	"it_title": "Gold Detergent Dispenser",
+	"reference": "B1505G",
+	"price": 19370,
+	"images": [
+		{
+			"image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1595942662/Produtos/Dispenser/B1505G.jpg"
+		}
+	],
+	"description": "* Acabamento: **DOURADO**\n* Recipiente: Plástico\n* Capacidade: 300ml\n* Furo para instalação: 35 mm\n* Utilização: Indicado para cozinha",
+	"en_description": "* Finish: **GOLD**\n* Container: Plastic \n* Capacity: 300ml \n* Hole for installation: 35 mm \n* Use: Suitable for kitchens\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+	"it_description": "* Finish: **GOLD**\n* Material: 304 Stainless Steel \n* Container: Plastic \n* Capacity: 300ml \n* Hole for installation: 35 mm \n* Use: Suitable for kitchens\n\n  05 year warranty nationwide\n\n  Comes with all installation accessories\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+	"relacionados": [
+		{
+			"produto": "B07021G"
+		},
+		{
+			"produto": "B1501G"
+		},
+		{
+			"produto": "B1504G"
+		}
+	],
+	"variations": [
+		{
+			"produto": "B1505BN"
+		},
+		{
+			"produto": "B1505C"
+		},
+		{
+			"produto": "B1505RG"
+		}
+	],
+	"features": [
+		{
+			"feature": "aco-inox"
+		},
+		{
+			"feature": "revestimento-pvd"
+		},
+		{
+			"feature": "garantia-5"
+		}
+	]
+}

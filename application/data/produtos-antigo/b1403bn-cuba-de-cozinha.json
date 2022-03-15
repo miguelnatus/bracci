@@ -1,0 +1,47 @@
+﻿{
+	"title": "Cuba de Cozinha",
+	"en_title": "Kitchen Sink",
+	"it_title": "Lavello Della Cucina",
+	"reference": "B1503BN",
+	"price": "2.858,70",
+	"images": [
+		{
+			"image": "/assets/images/uploads/7.png"
+		},
+		{
+			"image": "/assets/images/uploads/b1403bn.png"
+		},
+		{
+			"image": "/assets/images/uploads/b1403bnww.png"
+		}
+	],
+	"description": "* Acabamento: **AÇO ESCOVADO**\n* Altura: 21,5 cm\n* Largura: 47 cm\n* Comprimento: 90 cm\n* Utilização: Indicado para cozinhas e área gourmet\n* Um furo para misturador\n* Um furo para dispenser\n* Acompanha Válvula na cor do acabamento",
+	"en_description": "* Finish: **BRUSHED NICKEL**\n* Measurements: 90 x 47 x 21,5 cm\n* Use: Suitable for kitchens and gourmet area\n* Accompanying valve in finish color\n* Accompanies all installation accessories",
+	"it_description": "* Finish: **BRUSHED NICKEL**\n* Measurements: 90 x 47 x 21,5 cm\n* Use: Suitable for kitchens and gourmet area\n* Accompanying valve in finish color\n* Accompanies all installation accessories",
+	"model_3d": "https://3dwarehouse.sketchup.com/model/3c79258e-969f-4cac-ba6f-09aa6029d959/Cuba-de-Cozinha-Aço-Escovado-B1503BN-BRACCI",
+	"relacionados": [
+		{
+			"produto": "B01010BN"
+		},
+		{
+			"produto": "B01034BN"
+		}
+	],
+	"features": [
+		{
+			"feature": "material-aco"
+		},
+		{
+			"feature": "revestimento-pvd"
+		},
+		{
+			"feature": "sistema-topmount"
+		},
+		{
+			"feature": "garantia-5"
+		},
+		{
+			"feature": "acessorios"
+		}
+	]
+}

@@ -1,0 +1,155 @@
+{
+  "title": "Cozinha",
+  "en_title": "Kitchen",
+  "it_title": "Cucina",
+  "subtitle": "Misturadores Gourmet e Cubas",
+  "en_subtitle": "Gourmet Mixers ",
+  "it_subtitle": "Misturadores Gourmet",
+  "text": "As linhas de misturadores gourmet e cubas dão um toque sofisticado para a sua cozinha e facilitam seu dia a dia",
+  "en_text": "The lines of gourmet mixers and sinks add a sophisticated touch to your kitchen and make your daily life easier",
+  "it_text": "As linhas de misturadores gourmet e cubas dão um toque sofisticado para a sua cozinha e facilita seu dia a dia",
+  "description": "As linhas de misturadores gourmet e cubas dão um toque sofisticado para a sua cozinha e facilitam seu dia a dia",
+  "en_description": "The lines of gourmet mixers and sinks add a sophisticated touch to your kitchen and make your daily life easier",
+  "it_description": "As linhas de misturadores gourmet e cubas dão um toque sofisticado para a sua cozinha e facilitam seu dia a dia",
+  "utilization": "As linhas de misturadores gourmet e cubas dão um toque sofisticado para a sua cozinha e facilitam seu dia a dia",
+  "en_utilization": "As linhas de misturadores gourmet e cubas dão um toque sofisticado para a sua cozinha e facilitam seu dia a dia",
+  "it_utilization": "As linhas de misturadores gourmet e cubas dão um toque sofisticado para a sua cozinha e facilitam seu dia a dia",
+  "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_fill,f_auto,h_510,q_auto,w_990/v1597172467/Ambientes/00_1.jpg",
+  "linhas": [
+    {
+      "title": "St. Louise",
+      "en_title": "St. Louise",
+      "it_title": "St. Louise",
+      "produtos": [
+        {
+          "produto": "B01036C"
+        },
+        {
+          "produto": "B01036RG"
+        },
+        {
+          "produto": "B01010BN"
+        },
+        {
+          "produto": "B01012C"
+        },
+        {
+          "produto": "B01034BN"
+        },
+        {
+          "produto": "B07021RG"
+        },
+        {
+          "produto": "B07021G"
+        },
+        {
+          "produto": "B07021B"
+        },
+        {
+          "produto": "B07021BN"
+        }
+      ]
+    },
+    {
+      "title": "Smart Sensor",
+      "en_title": "Smart Sensor",
+      "it_title": "Smart Sensor",
+      "produtos": [
+        {
+          "produto": "B01040BN"
+        }
+      ]
+    },
+    {
+      "title": "Cubas de Cozinha",
+      "en_title": "Kitchen Bowls",
+      "it_title": "Lavellas Della Cucina",
+      "produtos": [
+        {
+          "produto": "B1501BN"
+        },
+        {
+          "produto": "B1501DG"
+        },
+        {
+          "produto": "B1501G"
+        },
+        {
+          "produto": "B1501RG"
+        },
+        {
+          "produto": "B1502BN"
+        },
+        {
+          "produto": "B1502RG"
+        },
+        {
+          "produto": "B1503BN"
+        },
+        {
+          "produto": "B1504G"
+        },
+        {
+          "produto": "B1504RG"
+        },
+        {
+          "produto": "B1505B"
+        },
+        {
+          "produto": "B1505BN"
+        },
+        {
+          "produto": "B1505C"
+        },
+        {
+          "produto": "B1505G"
+        },
+        {
+          "produto": "B1505RG"
+        }
+      ]
+    },
+    {
+      "title": "St Claire",
+      "en_title": "St Claire",
+      "it_title": "St Claire",
+      "produtos": [
+        {
+          "produto": "B02003G "
+        },
+        {
+          "produto": "B02003RG - Rose Gold"
+        },
+        {
+          "produto": "B02003BW"
+        },
+        {
+          "produto": "B02003ORB"
+        },
+        {
+          "produto": "B01014RG "
+        }
+      ]
+    },
+    {
+      "title": "Parisi",
+      "en_title": "Parisi",
+      "it_title": "Parisi",
+      "produtos": [
+        {
+          "produto": "B01009C"
+        }
+      ]
+    },
+    {
+      "title": "Novacci",
+      "en_title": "Novacci",
+      "it_title": "Novacci",
+      "produtos": [
+        {
+          "produto": "B02007B"
+        }
+      ]
+    }
+  ]
+}

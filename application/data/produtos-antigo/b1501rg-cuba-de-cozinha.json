@@ -1,0 +1,55 @@
+﻿{
+	"title": "Cuba de Cozinha",
+	"en_title": "Kitchen Sink",
+	"it_title": "Lavello Della Cucina",
+	"reference": "B1501RG",
+	"price": "2.858,70",
+	"images": [
+		{
+			"image": "/assets/images/uploads/4.png"
+		},
+		{
+			"image": "/assets/images/uploads/b1401-rr.png"
+		},
+		{
+			"image": "/assets/images/uploads/b1401-ss.png"
+		}
+	],
+	"description": "* Acabamento: **ROSE GOLD**\n* Altura: 25,4 cm\n* Largura: 45,7 cm\n* Comprimento: 67,3 cm\n* Utilização: Indicado para cozinhas e área gourmet\n* Sem furo para misturador\n* Acompanha Válvula na cor do acabamento",
+	"en_description": "* Finish: **ROSE GOLD**\n* Measurements: 67.3 x 45.7 x 25.4 cm\n* Use: Suitable for kitchens and gourmet area\n* No hole for mixer\n* Accompanying valve in finish color",
+	"it_description": "* Finish: **ROSE GOLD**\n* Measurements: 67.3 x 45.7 x 25.4 cm\n* Use: Suitable for kitchens and gourmet area\n* No hole for mixer\n* Accompanying valve in finish color",
+	"model_3d": "https://3dwarehouse.sketchup.com/model/3ef09d8f-3ea1-431d-969a-36d1bb7a9268/Cuba-de-Cozinha-Rose-Red-Gold-B1501RG-BRACCI",
+	"relacionados": [
+		{
+			"produto": "B07021RG"
+		}
+	],
+	"variations": [
+		{
+			"produto": "B1501BN"
+		},
+		{
+			"produto": "B1501G"
+		}
+	],
+	"features": [
+		{
+			"feature": "material-aco"
+		},
+		{
+			"feature": "revestimento-pvd"
+		},
+		{
+			"feature": "sistema-topmount"
+		},
+		{
+			"feature": "sistema-undermount"
+		},
+		{
+			"feature": "garantia-5"
+		},
+		{
+			"feature": "acessorios"
+		}
+	]
+}

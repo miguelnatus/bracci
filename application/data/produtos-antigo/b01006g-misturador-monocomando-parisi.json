@@ -1,0 +1,84 @@
+{
+  "title": "Misturador Monocomando Parisi",
+  "en_title": "Parisi Single lever Mixer",
+  "it_title": "Parisi Single lever Mixer",
+  "reference": "B01006G",
+  "price": "1.414,40",
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01006g33.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/img-88dcbc2561f0e558.jpeg"
+    },
+    {
+      "image": "/assets/images/uploads/b01006g222.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01006g-ll.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01006g.jpg"
+    }
+  ],
+  "images_ambient": [],
+  "description": "* Acabamento: **Branco e Dourado**\n* Utilização: Banheiro\n* Comprimento da Bica: 15,5cm\n* Altura da Bica: 27,3cm\n* Furação necessária: 01 (35mm)\n* Bica Fixa\n* Conexão: G ½ (Padrão)",
+  "en_description": "\n\n* Acabamento: **Branco e Dourado**\n* Utilização: Banheiro\n* Comprimento da Bica: 15,5cm\n* Altura da Bica: 27,3cm\n* Furação necessária: 01 (35mm)\n* Bica Fixa\n* Conexão: G ½ (Padrão)",
+  "it_description": "\n\n* Acabamento: **Branco e Dourado**\n* Utilização: Banheiro\n* Comprimento da Bica: 15,5cm\n* Altura da Bica: 27,3cm\n* Furação necessária: 01 (35mm)\n* Bica Fixa\n* Conexão: G ½ (Padrão)",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/9ac1b7eb-4e6b-45b5-bb95-444b2da21003/Misturador-Monocomando-Parisi-Dourado-e-Branco-BRACCI-B01006G",
+  "video": "g5kLpMlySGc",
+  "relacionados": [
+    {
+      "produto": "B07004G"
+    },
+    {
+      "produto": "B07005G"
+    },
+    {
+      "produto": "B07006G"
+    },
+    {
+      "produto": "B07010G"
+    },
+    {
+      "produto": "B07018G"
+    },
+    {
+      "produto": "B07019G"
+    }
+  ],
+  "variations": [
+    {
+      "produto": "B01008C"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "monocomando"
+    },
+    {
+      "feature": "quente-frio"
+    },
+    {
+      "feature": "arejador-neoperl"
+    },
+    {
+      "feature": "durabilidade-600000"
+    },
+    {
+      "feature": "pressao-4-mca"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

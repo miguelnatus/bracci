@@ -1,0 +1,490 @@
+{
+  "title": "Banheiro",
+  "en_title": "Bathroom",
+  "it_title": "Bagno",
+  "subtitle": "Misturadores, chuveiros, acessórios e banheiras",
+  "en_subtitle": " Mixers, showers, accessories and bathtubs",
+  "it_subtitle": "Misturadores, chuveiros, acessórios e banheiras",
+  "text": "Uma linha completa de metais e banheiras de imersão que fazem toda a diferença no seu banheiro",
+  "en_text": "A complete line of sanitary ware and free standing bathtubs that make all the difference in your bathroom",
+  "it_text": "Uma linha completa de metais e banheiras de imersão que fazem toda a diferença no seu banheiro",
+  "description": "Uma linha completa de metais e banheiras de imersão que fazem toda a diferença no seu banheiro",
+  "en_description": "A complete line of sanitary ware and free standing bathtubs that make all the difference in your bathroom",
+  "it_description": "Uma linha completa de metais e banheiras de imersão que fazem toda a diferença no seu banheiro",
+  "utilization": "Banheiro",
+  "en_utilization": "Banheiro",
+  "it_utilization": "Banheiro",
+  "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_fill,f_auto,h_510,q_auto,w_990/v1583435247/Homepage/Banheiro.jpg",
+  "linhas": [
+    {
+      "title": "St. Claire",
+      "en_title": "St. Claire",
+      "it_title": "St. Claire",
+      "produtos": [
+        {
+          "produto": "B02001G"
+        },
+        {
+          "produto": "B02001RG"
+        },
+        {
+          "produto": "B02001BN"
+        },
+        {
+          "produto": "B02002BW"
+        },
+        {
+          "produto": "B02002RG"
+        },
+        {
+          "produto": "B02003BW"
+        },
+        {
+          "produto": "B02003G "
+        },
+        {
+          "produto": "B02003RG"
+        },
+        {
+          "produto": "B02004C"
+        },
+        {
+          "produto": "B02004G"
+        },
+        {
+          "produto": "B02004RG"
+        },
+        {
+          "produto": "B02005B"
+        },
+        {
+          "produto": "B02005C"
+        },
+        {
+          "produto": "B02005G "
+        },
+        {
+          "produto": "B02005RG"
+        },
+        {
+          "produto": "B01014RG "
+        }
+      ]
+    },
+    {
+      "title": "Parisi",
+      "en_title": "Parisi",
+      "it_title": "Parisi",
+      "produtos": [
+        {
+          "produto": "B01005G"
+        },
+        {
+          "produto": "B01006G"
+        },
+        {
+          "produto": "B01007C"
+        },
+        {
+          "produto": "B01008C"
+        }
+      ]
+    },
+    {
+      "title": "Cirrus",
+      "en_title": "Cirrus",
+      "it_title": "Cirrus",
+      "produtos": [
+        {
+          "produto": "B01015C"
+        },
+        {
+          "produto": "B02006B"
+        },
+        {
+          "produto": "B02006B2"
+        }
+      ]
+    },
+    {
+      "title": "Modena",
+      "en_title": "Modena",
+      "it_title": "Modena",
+      "produtos": [
+        {
+          "produto": "B01003C"
+        },
+        {
+          "produto": "B01004C"
+        },
+        {
+          "produto": "B01016C"
+        }
+      ]
+    },
+    {
+      "title": "Novacci",
+      "en_title": "Novacci",
+      "it_title": "Novacci",
+      "produtos": [
+        {
+          "produto": "B02007B"
+        },
+        {
+          "produto": "B02008B"
+        }
+      ]
+    },
+    {
+      "title": "Vercci",
+      "en_title": "Vercci",
+      "it_title": "Vercci",
+      "produtos": [
+        {
+          "produto": "B01017RG"
+        },
+        {
+          "produto": "B01019RG "
+        },
+        {
+          "produto": "B01035RG"
+        },
+        {
+          "produto": "B01035RG2"
+        },
+        {
+          "produto": "B01035C"
+        },
+        {
+          "produto": "B01035C2"
+        },
+        {
+          "produto": "B01035G"
+        },
+        {
+          "produto": "B01035G2"
+        },
+        {
+          "produto": "B01035BN"
+        },
+        {
+          "produto": "B01035BN2"
+        },
+        {
+          "produto": "B09002B"
+        },
+        {
+          "produto": "B09001BN"
+        },
+        {
+          "produto": "B09001C"
+        },
+        {
+          "produto": "B09002C"
+        },
+        {
+          "produto": "B09001G"
+        },
+        {
+          "produto": "B09002G"
+        },
+        {
+          "produto": "B09001RG"
+        },
+        {
+          "produto": "B09002RG"
+        },
+        {
+          "produto": "B09001B"
+        }
+      ]
+    },
+    {
+      "title": "Misturadores de Piso",
+      "en_title": "Misturadores de Piso",
+      "it_title": "Misturadores de Piso",
+      "produtos": [
+        {
+          "produto": "B01032C"
+        },
+        {
+          "produto": "B09011B"
+        },
+        {
+          "produto": "B07009C"
+        },
+        {
+          "produto": "B07009B"
+        },
+        {
+          "produto": "B07009RG"
+        },
+        {
+          "produto": "B07009G"
+        },
+        {
+          "produto": "B09010B"
+        },
+        {
+          "produto": "B09010G"
+        }
+      ]
+    },
+    {
+      "title": "Chuveiros",
+      "en_title": "Shower",
+      "it_title": "Shower",
+      "produtos": [
+        {
+          "produto": "B02016G "
+        },
+        {
+          "produto": "B02016RG"
+        },
+        {
+          "produto": "B02016C"
+        },
+        {
+          "produto": "B01033C"
+        },
+        {
+          "produto": "B07002RG"
+        },
+        {
+          "produto": "B07002G"
+        },
+        {
+          "produto": "B07002BW"
+        },
+        {
+          "produto": "B07002C"
+        },
+        {
+          "produto": "B07002B"
+        },
+        {
+          "produto": "B07003RG "
+        },
+        {
+          "produto": "B07003G "
+        },
+        {
+          "produto": "B07003BW"
+        },
+        {
+          "produto": "B07003C"
+        },
+        {
+          "produto": "B07003B"
+        },
+        {
+          "produto": "B07004RG"
+        },
+        {
+          "produto": "B07004G"
+        },
+        {
+          "produto": "B07004B "
+        },
+        {
+          "produto": "B07004C"
+        },
+        {
+          "produto": "B07004BN"
+        },
+        {
+          "produto": "B07005RG "
+        },
+        {
+          "produto": "B07005G"
+        },
+        {
+          "produto": "B07005B"
+        },
+        {
+          "produto": "B07005C "
+        },
+        {
+          "produto": "B07005BN"
+        },
+        {
+          "produto": "B09004RG"
+        },
+        {
+          "produto": "B09004G"
+        },
+        {
+          "produto": "B09004C"
+        },
+        {
+          "produto": "B09004B"
+        },
+        {
+          "produto": "B07006RG"
+        },
+        {
+          "produto": "B07006G"
+        },
+        {
+          "produto": "B07006B"
+        },
+        {
+          "produto": "B07006C"
+        },
+        {
+          "produto": "B07006BW"
+        },
+        {
+          "produto": "B07006BN"
+        }
+      ]
+    },
+    {
+      "title": "Chuveiros Termostáticos",
+      "en_title": "Chuveiros Termostáticos",
+      "it_title": "Chuveiros Termostáticos",
+      "produtos": [
+        {
+          "produto": "B02017B"
+        },
+        {
+          "produto": "B02017C"
+        }
+      ]
+    },
+    {
+      "title": "Complementos",
+      "en_title": "Complements",
+      "it_title": "Complements",
+      "produtos": [
+        {
+          "produto": "B07018RG"
+        },
+        {
+          "produto": "B07001RG"
+        },
+        {
+          "produto": "B09003RG"
+        },
+        {
+          "produto": "B07010RG"
+        },
+        {
+          "produto": "B07019RG"
+        },
+        {
+          "produto": "B09005RG"
+        },
+        {
+          "produto": "B09006RG"
+        },
+        {
+          "produto": "B07018G"
+        },
+        {
+          "produto": "B07001G"
+        },
+        {
+          "produto": "B09003G"
+        },
+        {
+          "produto": "B07010G"
+        },
+        {
+          "produto": "B07019G"
+        },
+        {
+          "produto": "B09005G"
+        },
+        {
+          "produto": "B09006G"
+        },
+        {
+          "produto": "B07018C"
+        },
+        {
+          "produto": "B07001C"
+        },
+        {
+          "produto": "B09003C"
+        },
+        {
+          "produto": "B07010C"
+        },
+        {
+          "produto": "B07019C"
+        },
+        {
+          "produto": "B09005C"
+        },
+        {
+          "produto": "B09006C"
+        },
+        {
+          "produto": "B07018BW"
+        },
+        {
+          "produto": "B07001BW"
+        },
+        {
+          "produto": "B07010BW"
+        },
+        {
+          "produto": "B07019BW"
+        },
+        {
+          "produto": "B07018B"
+        },
+        {
+          "produto": "B07001B"
+        },
+        {
+          "produto": "B09003B"
+        },
+        {
+          "produto": "B07010B"
+        },
+        {
+          "produto": "B07019B"
+        },
+        {
+          "produto": "B09005B"
+        },
+        {
+          "produto": "B09006B"
+        },
+        {
+          "produto": "B07018BN"
+        },
+        {
+          "produto": "B09003BN"
+        },
+        {
+          "produto": "B09005BN"
+        },
+        {
+          "produto": "B09006BN"
+        }
+      ]
+    },
+    {
+      "title": "Cubas de Banheiro",
+      "en_title": "Cubas de Banheiro",
+      "it_title": "Cubas de Banheiro",
+      "produtos": [
+        {
+          "produto": "B1701W"
+        },
+        {
+          "produto": "B1702W"
+        },
+        {
+          "produto": "B1702MG"
+        },
+        {
+          "produto": "B1701W"
+        }
+      ]
+    }
+  ]
+}

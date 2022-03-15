@@ -1,0 +1,23 @@
+{
+   "title": "Banheiras de Imersão",
+   "en_title": "Bathtubs",
+   "it_title": "Bagni ad immersione",
+   "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_fit,f_auto,h_200,q_auto,w_200/v1592331070/Linhas/Design_sem_nome_38.jpg",
+   "produtos": [
+      {
+         "produto": "B1202W"
+      },
+      {
+         "produto": "B1201W"
+      },
+      {
+         "produto": "B1203W"
+      },
+      {
+         "produto": "B1204W"
+      },
+      {
+         "produto": "B1201B"
+      }
+   ]
+}

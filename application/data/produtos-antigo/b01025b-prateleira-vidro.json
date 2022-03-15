@@ -1,0 +1,61 @@
+{
+  "title": "Prateleira Vidro",
+  "en_title": "Glass Shelf",
+  "it_title": "Glass Shelf",
+  "reference": "B01025B",
+  "price": 42770,
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01025b.jpg"
+    }
+  ],
+  "description": "* Prateleira Vidro Vercci **PRETO FOSCO**",
+  "en_description": "* Finish: **BLACK MATTE**\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **BLACK MATTE**\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/de6bb62b-d4e4-4fe0-b9b1-6a0db4dc78bd/Prateleira-Vidro-Preto-Fosco-BRACCI-B01025B",
+  "relacionados": [
+    {
+      "produto": "B01029B "
+    },
+    {
+      "produto": "B01030B"
+    },
+    {
+      "produto": "B01031B "
+    },
+    {
+      "produto": "B01028B "
+    },
+    {
+      "produto": "B01027B "
+    },
+    {
+      "produto": "B01026B"
+    }
+  ],
+  "variations": [
+    {
+      "produto": "B01025BN"
+    },
+    {
+      "produto": "B01025C"
+    },
+    {
+      "produto": "B01025G"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

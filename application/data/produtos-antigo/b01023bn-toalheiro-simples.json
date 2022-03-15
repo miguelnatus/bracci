@@ -1,0 +1,43 @@
+{
+  "title": "Toalheiro Simples",
+  "complement": "",
+  "en_title": "Single Towel Bar",
+  "it_title": "Single Towel Bar",
+  "reference": "B01023BN",
+  "price": 47970,
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01023bn.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01023bn-p.jpg"
+    }
+  ],
+  "description": "* Toalheiro Simples Vercci **AÇO ESCOVADO**\n* Comprimento: 55,2 cm\n* Largura: 7 cm",
+  "en_description": "* Finish: **BRUSHED NIQUEL**\n* Lenght: 55,2 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **BRUSHED NIQUEL**\n* Lenght: 55,2 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/7c4f4c02-a539-43ce-86a1-706dcd6a1308/Toalheiro-Simples-Aço-Escovado-B01023BN-BRACCI",
+  "relacionados": [],
+  "variations": [
+    {
+      "produto": "B01023G"
+    },
+    {
+      "produto": "B01023RG"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

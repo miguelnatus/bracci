@@ -1,0 +1,82 @@
+{
+   "title": "Misturador Monocomando St. Louise",
+   "en_title": "Kitchen Mixer",
+   "it_title": "Kitchen Mixer",
+   "reference": "B07021BN",
+   "price": "2.468,70",
+   "images": [
+      {
+         "image": "/assets/images/uploads/b07021bn-xxxx.jpg"
+      },
+      {
+         "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_limit,f_auto,h_800,q_auto/v1583176333/Produtos/B07021BN/bvnjaskf.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/img_2914-2.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/img_2920-2.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/img_2921-2.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/bn01.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/b07021bndesnho.jpg"
+      }
+   ],
+   "description": "* Misturador Monocomando **AÇO ESCOVADO**\n* Bica giratória\n* Bica auxiliar com possibilidade de ligação de filtro",
+   "en_description": "* Finish: **BRUSHED NIKEL**\n* Swivel spout\n* Auxiliary nozzle with possibility of filter connection\n\n  **Why should you buy BRACCI?**\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "* Finish: **BRUSHED NIKEL**\n* Swivel spout\n* Auxiliary nozzle with possibility of filter connection.\n\n  **Why should you buy BRACCI?**\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "model_3d": "https://3dwarehouse.sketchup.com/model/284f00c2-8225-44f0-bcc6-0b93d0dbdc7c/Misturador-Monocomando-de-Cozinha-Aço-Escovado-BRACCI-B07021BN",
+   "relacionados": [
+      {
+         "produto": "B1601AP"
+      },
+      {
+         "produto": "B1501BN"
+      },
+      {
+         "produto": "B1502BN"
+      },
+      {
+         "produto": "B1503BN"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07021B"
+      },
+      {
+         "produto": "B07021G"
+      },
+      {
+         "produto": "B07021RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "uso-cozinha"
+      },
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "operacao-monocomando"
+      },
+      {
+         "feature": "pressao-10-mca"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

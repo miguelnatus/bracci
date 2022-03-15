@@ -1,0 +1,61 @@
+{
+   "title": "Papeleira",
+   "en_title": "Paper Holder",
+   "it_title": "Paper Holder",
+   "reference": "B07014RG",
+   "price": 37570,
+   "images": [
+      {
+         "image": "https://res.cloudinary.com/dqnaebclw/image/upload/c_pad,f_auto,h_600,q_auto,w_600/v1579108491/fsnvidsbnv.jpg"
+      },
+      {
+         "image": "/assets/images/uploads/b07014g-2.jpg"
+      }
+   ],
+   "description": "* Porta Papel Higiênico St. Claire **ROSE GOLD**\n* Comprimento: 20 cm\n* Profundidade: 7,5 cm",
+   "en_description": "* Finish: **ROSE GOLD**\n* Lenght: 20 cm\n* Width: 7,5 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "* Finish: **ROSE GOLD**\n* Lenght: 20 cm\n* Width: 7,5 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "model_3d": "https://3dwarehouse.sketchup.com/model/771996b9-9df4-4a23-b558-704a28d02b97/Papeleira-Rose-Red-Gold-BRACCI-B07014RG",
+   "relacionados": [
+      {
+         "produto": "B02001RG"
+      },
+      {
+         "produto": "B02002RG"
+      },
+      {
+         "produto": "B02003RG - Rose Gold"
+      },
+      {
+         "produto": "B02005RG"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07014B"
+      },
+      {
+         "produto": "B07014BW"
+      },
+      {
+         "produto": "B07014C"
+      },
+      {
+         "produto": "B07014G"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}

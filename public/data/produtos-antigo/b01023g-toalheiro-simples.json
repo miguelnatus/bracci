@@ -1,0 +1,42 @@
+{
+  "title": "Toalheiro Simples",
+  "en_title": "Single Towel Bar",
+  "it_title": "Single Towel Bar",
+  "reference": "B01023G",
+  "price": 47970,
+  "images": [
+    {
+      "image": "/assets/images/uploads/b01023g.jpg"
+    },
+    {
+      "image": "/assets/images/uploads/b01020rg-rr.jpg"
+    }
+  ],
+  "description": "* Toalheiro Simples Vercci **GOLD**\n* Comprimento: 55,2 cm\n* Largura: 7 cm",
+  "en_description": "* Finish:  **GOLD**\n* Lenght: 55,2 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "it_description": "* Finish: **GOLD**\n* Lenght: 55,2 cm\n* Width: 7 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+  "model_3d": "https://3dwarehouse.sketchup.com/model/08571ecc-7593-4e03-9a8c-c660eebbf2a4/Toalheiro-Simples-Dourado-B01023G-BRACCI",
+  "relacionados": [],
+  "variations": [
+    {
+      "produto": "B01023BN"
+    },
+    {
+      "produto": "B01023RG"
+    }
+  ],
+  "features": [
+    {
+      "feature": "material-bronze"
+    },
+    {
+      "feature": "revestimento-pvd"
+    },
+    {
+      "feature": "garantia-5"
+    },
+    {
+      "feature": "acessorios"
+    }
+  ]
+}

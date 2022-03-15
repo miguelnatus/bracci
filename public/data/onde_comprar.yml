@@ -1,0 +1,123 @@
+title: Onde Comprar
+en_title: Onde Comprar
+it_title: Onde Comprar
+image: >-
+  https://res.cloudinary.com/dqnaebclw/image/upload/c_fill,f_auto,h_250,q_auto,w_1600/v1580399308/Design_sem_nome_26.jpg
+description: >-
+  Se interessou pelos nossos produtos? Quer conhecer eles de perto? Além de um
+  showroom de fábrica em Gramado, temos showrooms e especificadores em
+  diferentes regiões do país. Você pode ir até um dos showrooms ou até mesmo
+  agendar uma visita de um de nossos especificadores em sua casa, obra ou
+  escritório. Mas se preferir você pode comprar diretamente com nós, através dos
+  nossos WhatsApps ou emails.
+en_description: >-
+  Se interessou pelos nossos produtos? Quer conhecer eles de perto? Além de um
+  showroom de fábrica em Gramado, temos showrooms e especificadores em
+  diferentes regiões do país. Você pode ir até um dos showrooms ou até mesmo
+  agendar uma visita de um de nossos especificadores em sua casa, obra ou
+  escritório. Mas se preferir você pode comprar diretamente com nós, através dos
+  nossos WhatsApps ou emails.
+it_description: >-
+  Se interessou pelos nossos produtos? Quer conhecer eles de perto? Além de um
+  showroom de fábrica em Gramado, temos showrooms e especificadores em
+  diferentes regiões do país. Você pode ir até um dos showrooms ou até mesmo
+  agendar uma visita de um de nossos especificadores em sua casa, obra ou
+  escritório. Mas se preferir você pode comprar diretamente com nós, através dos
+  nossos WhatsApps ou emails.
+tab1: Onde Comprar
+en_tab1: Onde Comprar
+it_tab1: Onde Comprar
+mapa: >-
+  https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3475.252551768707!2d-50.88644378426855!3d-29.42141420953906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951931e45596d331%3A0xdef4fc5b8ef9d16e!2sBracci!5e0!3m2!1spt-BR!2sbr!4v1579715093132!5m2!1spt-BR!2sbr
+locations:
+  - showrooms:
+      - address: 'Av. 1º de Maio, 3400'
+        cep: 95670-000
+        district: Bairro Várzea Grande
+        phone: (54) 3288-1235
+        subtitle: Exclusivo
+        title: Showroom
+      - address: 'Av. Borges de Medeiros, 2381'
+        cep: 95670-000
+        district: Centro
+        phone: (54) 3295-2329
+        subtitle: Goods Home
+        title: Showroom
+    title: Gramado – RS
+  - showrooms:
+      - address: 'Rua 3150, 100, sala 15, Edifício Four Seasons'
+        cep: 88330-281
+        district: Centro
+        phone: (47) 98815-7643
+        subtitle: Exclusivo
+        title: Showroom
+    title: Balneário Camboriú – SC
+tab2: Compre Online
+en_tab2: Compre Online
+it_tab2: Compre Online
+direct_title: Venda Direta
+en_direct_title: Venda Direta
+it_direct_title: Venda Direta
+direct_description: >-
+  Se preferir você pode entrar em contato e adquirir os produtos diretamente
+  conosco, nossa equipe de especialistas está pronta para prestar um atendimento
+  personalizado.
+en_direct_description: >-
+  Se preferir você pode entrar em contato e adquirir os produtos diretamente
+  conosco, nossa equipe de especialistas está pronta para prestar um atendimento
+  personalizado.
+it_direct_description: >-
+  Se preferir você pode entrar em contato e adquirir os produtos diretamente
+  conosco, nossa equipe de especialistas está pronta para prestar um atendimento
+  personalizado.
+direct_step1: Entre no nosso site e adicione os produtos de seu interesse no carrinho
+en_direct_step1: Entre no nosso site e adicione os produtos de seu interesse no carrinho
+it_direct_step1: Entre no nosso site e adicione os produtos de seu interesse no carrinho
+direct_step1_image: >-
+  https://res.cloudinary.com/dqnaebclw/image/upload/f_auto,q_auto/v1582058211/Produtos/site.jpg
+direct_step2: >-
+  Clique em "solicitar o orçamento", preencha seus dados e entraremos em contato
+  com você.
+en_direct_step2: >-
+  Clique em "solicitar o orçamento", preencha seus dados e entraremos em contato
+  com você.
+it_direct_step2: >-
+  Clique em "solicitar o orçamento", preencha seus dados e entraremos em contato
+  com você.
+direct_step2_image: /assets/images/onde-comprar/tutorial-3.png
+direct_contact: |-
+  Você também pode entrar em contato conosco:
+
+  (54) 99177-1422
+
+  (54) 99269-4260
+
+  (54) 99177-9654
+
+  contato@bracci.com.br
+
+  comercial@bracci.com.br
+en_direct_contact: |-
+  Você também pode entrar em contato conosco:
+
+  (54) 99177-1422
+
+  (54) 99269-4260
+
+  (54) 99177-9654
+
+  contato@bracci.com.br
+
+  comercial@bracci.com.br
+it_direct_contact: |-
+  Você também pode entrar em contato conosco:
+
+  (54) 99177-1422
+
+  (54) 99269-4260
+
+  (54) 99177-9654
+
+  contato@bracci.com.br
+
+  comercial@bracci.com.br

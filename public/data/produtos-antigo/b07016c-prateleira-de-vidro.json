@@ -1,0 +1,61 @@
+{
+   "title": "Prateleira Vidro",
+   "en_title": "Glass Shelf",
+   "it_title": "Glass Shelf",
+   "reference": "B07016C",
+   "price": 54470,
+   "images": [
+      {
+         "image": "/assets/images/uploads/b07016c.png"
+      },
+      {
+         "image": "/assets/images/uploads/b0701yy.jpg"
+      }
+   ],
+   "description": "* Prateleira Vidro St. Claire **CROMADO**\n* Comprimento: 50 cm\n* Profundidade: 9,1 cm",
+   "en_description": "* Finish: **CHROME**\n* Lenght: 50 cm\n* Width: 9,1 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "it_description": "* Finish: **CHROME**\n* Lenght: 50 cm\n* Width: 9,1 cm\n\n**Why should you buy BRACCI?**\n\n* Premier finishing product - 5 years warranty worldwide\n* Italian Design\n* Products choice and installation support by our specialist team",
+   "model_3d": "https://3dwarehouse.sketchup.com/model/b8c4cb2d-871b-48c7-9d71-6803c02d7aa2/Prateleira-Vidro-Cromada-BRACCI-B07016C",
+   "relacionados": [
+      {
+         "produto": "B02004C"
+      },
+      {
+         "produto": "B02005C"
+      },
+      {
+         "produto": "B07002C"
+      },
+      {
+         "produto": "B07006C"
+      }
+   ],
+   "variations": [
+      {
+         "produto": "B07016B"
+      },
+      {
+         "produto": "B07016BW"
+      },
+      {
+         "produto": "B07016G"
+      },
+      {
+         "produto": "B07016RG"
+      }
+   ],
+   "features": [
+      {
+         "feature": "material-bronze"
+      },
+      {
+         "feature": "revestimento-pvd"
+      },
+      {
+         "feature": "garantia-5"
+      },
+      {
+         "feature": "acessorios"
+      }
+   ]
+}
